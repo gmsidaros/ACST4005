@@ -1,0 +1,4625 @@
+customerid,customercity,policy
+C1,Lennox Head,P3963
+C2,Merrimac,P770
+C3,Bendigo,P3483
+C4,Mackay,P2582
+C5,Horsham,P1163
+C6,Whittlesea,P1983
+C7,Clifton Springs,P3814
+C8,Swan Hill,P1665
+C9,Brisbane,P3045
+C10,Yass,P1941
+C11,Canberra,P3575
+C12,Nambucca Heads,P4323
+C13,Glen Innes,P2762
+C14,Scone,P1526
+C15,Emu Plains,P426
+C16,Mount Evelyn,P3024
+C17,Darwin,P1667
+C18,Stawell,P4465
+C19,Clifton Springs,P3067
+C20,Mooroopna,P4113
+C21,Murwillumbah,P2227
+C22,Mareeba,P1576
+C23,Cairns,P892
+C24,Hobart,P2997
+C25,Burpengary,P1783
+C26,Tweed Heads,P3989
+C27,Glen Innes,P3665
+C28,Sanctuary Point,P1471
+C29,Cannonvale,P511
+C30,Melbourne,P1835
+C31,Urraween,P3052
+C32,Bowral,P1632
+C33,Yass,P3734
+C34,Kurri Kurri,P1628
+C35,Lakes Entrance,P4530
+C36,Sydney,P352
+C37,Kurri Kurri,P3319
+C38,Nambour,P3009
+C39,Helensburgh,P2966
+C40,Horsham,P3765
+C41,Cranbourne,P3690
+C42,Perth,P605
+C43,Waterford,P3635
+C44,Newcastle,P2616
+C45,Darwin,P3445
+C46,Yass,P3505
+C47,Wollongong,P4036
+C48,Cairns,P55
+C49,Scone,P3889
+C50,Corowa,P2994
+C51,Melbourne,P744
+C52,Kyneton,P91
+C53,Mandurah,P315
+C54,Sydney,P2705
+C55,Katoomba,P2710
+C56,Townsville,P1746
+C57,Blaxland,P4498
+C58,Leeton,P170
+C59,Yamba,P863
+C60,Urraween,P4362
+C61,Emu Plains,P1124
+C62,Bongaree,P459
+C63,Sanctuary Point,P2531
+C64,Yanchep,P3626
+C65,Gold Coast,P3195
+C66,Cannonvale,P3631
+C67,Mackay,P460
+C68,Central Coast,P2508
+C69,Hobart,P1815
+C70,Echuca,P2783
+C71,Bargara,P2
+C72,Rutherford,P1366
+C73,Maryborough,P4340
+C74,Brisbane,P2649
+C75,Whittlesea,P3142
+C76,Cowra,P3630
+C77,Geelong,P419
+C78,Point Vernon,P1821
+C79,Brisbane,P1188
+C80,Wagga Wagga,P75
+C81,Barwon Heads,P3240
+C82,Sanctuary Point,P3512
+C83,Urraween,P1047
+C84,Perth,P4014
+C85,Colac,P3975
+C86,Hobart,P1971
+C87,Adelaide,P642
+C88,Launceston,P4128
+C89,Sanctuary Point,P1893
+C90,Deniliquin,P2754
+C91,Fremantle,P4449
+C92,Hobart,P4297
+C93,Inverell,P1268
+C94,Perth,P467
+C95,Colac,P4051
+C96,Horsham,P210
+C97,Strathalbyn,P616
+C98,Horsham,P38
+C99,Central Coast,P2640
+C100,Mittagong,P3828
+C101,Colac,P2094
+C102,Nowra,P1797
+C103,Parkes,P1395
+C104,Lakes Entrance,P630
+C105,Castlemaine,P3510
+C106,Cessnock,P2124
+C107,Brisbane,P4260
+C108,Sydney,P2254
+C109,Melbourne,P2826
+C110,Wauchope,P3287
+C111,Darwin,P1825
+C112,Maryborough,P1804
+C113,Cairns,P797
+C114,Canberra,P3831
+C115,Wynyard,P913
+C116,Muswellbrook,P2403
+C117,Echuca,P579
+C118,Narrabri,P3407
+C119,Parkes,P4193
+C120,Lennox Head,P2090
+C121,Corowa,P3503
+C122,Melbourne,P3371
+C123,Kurri Kurri,P246
+C124,Springwood,P1832
+C125,Forster,P2931
+C126,Hobart,P89
+C127,Rutherford,P4001
+C128,Glen Innes,P3904
+C129,Strathalbyn,P355
+C130,Brisbane,P2593
+C131,Australind,P3992
+C132,Newcastle,P1839
+C133,Melbourne,P3258
+C134,Deniliquin,P1453
+C135,Castlemaine,P1716
+C136,Glen Innes,P639
+C137,Newcastle,P2890
+C138,Bomaderry,P3053
+C139,Gold Coast,P3209
+C140,Mackay,P2020
+C141,Mareeba,P1065
+C142,Port Augusta,P2109
+C143,Point Vernon,P2375
+C144,Perth,P2544
+C145,Kingston,P1864
+C146,Yanchep,P4029
+C147,Darwin,P2777
+C148,Bowral,P102
+C149,Clifton Springs,P547
+C150,Brisbane,P1455
+C151,Perth,P384
+C152,Deniliquin,P3587
+C153,Nambucca Heads,P293
+C154,Casino,P4225
+C155,Nambour,P4246
+C156,Merrimac,P2919
+C157,Muswellbrook,P3899
+C158,Rutherford,P2087
+C159,Gold Coast,P4603
+C160,Adelaide,P643
+C161,Stawell,P3675
+C162,Blaxland,P3886
+C163,Melbourne,P1709
+C164,Echuca,P3114
+C165,Deniliquin,P543
+C166,Leeton,P3916
+C167,Ballarat,P594
+C168,Mareeba,P3465
+C169,Adelaide,P3691
+C170,Leopold,P4007
+C171,Bargara,P3110
+C172,Merrimac,P1750
+C173,Maryborough,P765
+C174,Brisbane,P2185
+C175,Forster,P3455
+C176,Toowoomba,P2416
+C177,Mudgee,P4085
+C178,Grafton,P2107
+C179,Cootamundra,P2184
+C180,Melbourne,P621
+C181,Mount Evelyn,P2854
+C182,Bowral,P2732
+C183,Whittlesea,P1818
+C184,Corowa,P917
+C185,Fremantle,P866
+C186,Casino,P2290
+C187,Healesville,P2490
+C188,Adelaide,P1390
+C189,Muswellbrook,P938
+C190,Leopold,P1831
+C191,Scone,P1579
+C192,Wynyard,P2103
+C193,Kyabram,P2891
+C194,Newcastle,P3820
+C195,Bendigo,P1121
+C196,Tumut,P1669
+C197,Hobart,P2210
+C198,Darwin,P4012
+C199,Katoomba,P595
+C200,Adelaide,P1369
+C201,Scone,P2465
+C202,Seymour,P991
+C203,Whittlesea,P1873
+C204,Perth,P3032
+C205,Mandurah,P2052
+C206,Gold Coast,P4596
+C207,Wallan,P2700
+C208,Gold Coast,P3783
+C209,Emu Plains,P1881
+C210,Perth,P934
+C211,Nowra,P1878
+C212,Melbourne,P1222
+C213,Bli Bli,P3464
+C214,Whittlesea,P1867
+C215,Bendigo,P1037
+C216,Cairns,P3440
+C217,Rutherford,P4583
+C218,Ipswich,P3456
+C219,Springwood,P3161
+C220,Stawell,P3390
+C221,Wagga Wagga,P787
+C222,Healesville,P2562
+C223,Nambour,P1308
+C224,Nowra,P3612
+C225,Kingston,P283
+C226,Tuncurry,P1469
+C227,Nowra,P2969
+C228,Brisbane,P2945
+C229,Nambour,P3359
+C230,Mareeba,P2214
+C231,Tuncurry,P4488
+C232,Newcastle,P1196
+C233,Gold Coast,P3557
+C234,Brisbane,P2320
+C235,Mudgee,P3064
+C236,Cranbourne,P4528
+C237,Dromana,P3211
+C238,Wollongong,P3383
+C239,Andergrove,P281
+C240,Parkes,P844
+C241,Hobart,P2643
+C242,Cannonvale,P2841
+C243,Ballina,P1889
+C244,Katoomba,P2179
+C245,Ballarat,P1183
+C246,Yamba,P897
+C247,Kingscliff,P421
+C248,Kyneton,P3897
+C249,Ulverstone,P1033
+C250,Mareeba,P2194
+C251,Central Coast,P3471
+C252,Whittlesea,P1732
+C253,Leopold,P4343
+C254,Adelaide,P3163
+C255,Campbelltown,P3761
+C256,Swan Hill,P346
+C257,Barwon Heads,P108
+C258,Burpengary,P3907
+C259,Cairns,P2315
+C260,Yamba,P2200
+C261,Melbourne,P1385
+C262,Lennox Head,P1822
+C263,Tweed Heads,P1265
+C264,Toowoomba,P2557
+C265,Glen Innes,P3502
+C266,Horsham,P3856
+C267,Yanchep,P443
+C268,Hobart,P3335
+C269,Stawell,P3532
+C270,Moree,P4615
+C271,Strathalbyn,P2712
+C272,Hobart,P3438
+C273,Barwon Heads,P617
+C274,Canberra,P453
+C275,Bowral,P3306
+C276,Brisbane,P4003
+C277,Lennox Head,P905
+C278,Moree,P2952
+C279,Bargara,P869
+C280,Andergrove,P2601
+C281,Scone,P51
+C282,Leeton,P1063
+C283,Perth,P1008
+C284,Port Augusta,P3515
+C285,Cranbourne,P536
+C286,Mudgee,P1187
+C287,North Mackay,P1253
+C288,Mooroopna,P4037
+C289,Hobart,P1950
+C290,Port Augusta,P3782
+C291,Geelong,P2550
+C292,Canberra,P3888
+C293,Muswellbrook,P3794
+C294,Perth,P2675
+C295,Leopold,P3452
+C296,Adelaide,P3722
+C297,Sydney,P1296
+C298,Waterford,P703
+C299,Parkes,P1699
+C300,Canberra,P1393
+C301,Sanctuary Point,P4116
+C302,Yamba,P3042
+C303,Sydney,P2863
+C304,Whittlesea,P3301
+C305,Sydney,P4327
+C306,Nambour,P1918
+C307,Katoomba,P2251
+C308,Brisbane,P1311
+C309,Tumut,P2425
+C310,Castlemaine,P4507
+C311,Melbourne,P3105
+C312,Bendigo,P2683
+C313,Strathalbyn,P3756
+C314,Newcastle,P2723
+C315,Leongatha,P2818
+C316,Burpengary,P984
+C317,Leopold,P501
+C318,Blaxland,P1299
+C319,Deniliquin,P3978
+C320,Australind,P4491
+C321,Seymour,P988
+C322,Bongaree,P4258
+C323,Kurri Kurri,P659
+C324,Helensburgh,P2594
+C325,Kurri Kurri,P395
+C326,Narrabri,P2209
+C327,Adelaide,P2032
+C328,Perth,P1325
+C329,Brisbane,P1354
+C330,Toowoomba,P3369
+C331,Sydney,P1244
+C332,Grafton,P3295
+C333,Yamba,P1670
+C334,Forster,P4095
+C335,Sydney,P1307
+C336,Ararat,P3642
+C337,Yamba,P1541
+C338,Wallan,P1660
+C339,Leeton,P727
+C340,Moss Vale,P2148
+C341,Bomaderry,P4078
+C342,Campbelltown,P3477
+C343,Healesville,P3189
+C344,Nowra,P1989
+C345,Yanchep,P1043
+C346,Castlemaine,P2942
+C347,Sydney,P259
+C348,Glen Innes,P1970
+C349,Blaxland,P236
+C350,Brisbane,P218
+C351,Maryborough,P4238
+C352,Hobart,P4574
+C353,Ballarat,P1384
+C354,Kingscliff,P3290
+C355,Kyneton,P2105
+C356,Dromana,P4540
+C357,Mount Barker,P3125
+C358,Cootamundra,P1069
+C359,Melbourne,P4156
+C360,Wauchope,P2013
+C361,Kyabram,P1291
+C362,Brisbane,P4523
+C363,Adelaide,P2368
+C364,Leongatha,P3677
+C365,Healesville,P3323
+C366,Hobart,P1126
+C367,Hobart,P3217
+C368,Yamba,P4539
+C369,Seymour,P2115
+C370,Narrabri,P707
+C371,Canberra,P2545
+C372,Canberra,P674
+C373,Newcastle,P1334
+C374,Kyabram,P2102
+C375,Fremantle,P1407
+C376,Merrimac,P24
+C377,Horsham,P3779
+C378,Melbourne,P85
+C379,Springwood,P3329
+C380,Urraween,P3006
+C381,Adelaide,P663
+C382,Moree,P2230
+C383,Andergrove,P3226
+C384,Canberra,P113
+C385,Yanchep,P96
+C386,Wallan,P982
+C387,Yamba,P2938
+C388,Tuncurry,P463
+C389,Leongatha,P2739
+C390,Burpengary,P3155
+C391,Alstonville,P1947
+C392,Corinda,P1168
+C393,Sydney,P2940
+C394,Mudgee,P3597
+C395,Sanctuary Point,P4021
+C396,Canberra,P2898
+C397,Merrimac,P1595
+C398,Yanchep,P4253
+C399,Perth,P3139
+C400,Rutherford,P3595
+C401,Port Augusta,P2357
+C402,Corinda,P4557
+C403,Bongaree,P1763
+C404,Sydney,P134
+C405,Melbourne,P4214
+C406,Barwon Heads,P3666
+C407,Tuncurry,P1570
+C408,Colac,P2432
+C409,Clifton Springs,P3200
+C410,Murwillumbah,P2430
+C411,Waterford,P4111
+C412,Goonellabah,P2652
+C413,Cessnock,P1374
+C414,Campbelltown,P1002
+C415,Melbourne,P3745
+C416,Wallan,P1896
+C417,Burpengary,P2979
+C418,Townsville,P3468
+C419,Newcastle,P3582
+C420,Gympie,P1805
+C421,Brisbane,P3610
+C422,Blaxland,P2001
+C423,Perth,P2598
+C424,Goonellabah,P2817
+C425,Urraween,P49
+C426,Melbourne,P2684
+C427,Corinda,P3986
+C428,Ipswich,P1770
+C429,Alstonville,P3424
+C430,Brisbane,P326
+C431,Strathalbyn,P1210
+C432,Newcastle,P4555
+C433,Emu Plains,P3230
+C434,Bendigo,P312
+C435,Cessnock,P2422
+C436,Kingston,P1071
+C437,Echuca,P165
+C438,Wauchope,P2634
+C439,Corinda,P1612
+C440,Darwin,P3506
+C441,Melbourne,P4035
+C442,Scone,P4567
+C443,Moss Vale,P3345
+C444,Newcastle,P1494
+C445,Merrimac,P2051
+C446,Cranbourne,P4102
+C447,Stawell,P4261
+C448,Adelaide,P2108
+C449,Central Coast,P1330
+C450,Yass,P1044
+C451,Leopold,P3353
+C452,Deniliquin,P502
+C453,Bargara,P2489
+C454,Canberra,P364
+C455,Brisbane,P3086
+C456,Echuca,P3663
+C457,Hobart,P32
+C458,Corinda,P3241
+C459,Gold Coast,P1114
+C460,Nowra,P486
+C461,Launceston,P571
+C462,Yamba,P362
+C463,Launceston,P294
+C464,Hobart,P2470
+C465,Mackay,P1115
+C466,Brisbane,P3852
+C467,Springwood,P2208
+C468,Bomaderry,P2659
+C469,Glen Innes,P2681
+C470,Bendigo,P253
+C471,Strathalbyn,P1745
+C472,Dromana,P169
+C473,Central Coast,P3357
+C474,Tuncurry,P2996
+C475,Horsham,P2038
+C476,Moree,P1837
+C477,Wauchope,P3375
+C478,Springwood,P3002
+C479,Waterford,P4595
+C480,Gold Coast,P1259
+C481,Sydney,P408
+C482,Wollongong,P1933
+C483,Lennox Head,P2408
+C484,Sydney,P478
+C485,Melbourne,P1548
+C486,Healesville,P1164
+C487,Narrabri,P482
+C488,Forster,P1132
+C489,Rutherford,P3715
+C490,Cannonvale,P3057
+C491,Parkes,P4371
+C492,Castlemaine,P1329
+C493,Maryborough,P3087
+C494,North Mackay,P1045
+C495,Ipswich,P662
+C496,Leongatha,P4331
+C497,Horsham,P3713
+C498,Sydney,P1986
+C499,Bomaderry,P2444
+C500,Yamba,P2852
+C501,Campbelltown,P4181
+C502,Whittlesea,P1634
+C503,Brisbane,P4087
+C504,Mount Barker,P2075
+C505,Merrimac,P4463
+C506,Launceston,P921
+C507,Cannonvale,P3488
+C508,Nuriootpa,P3796
+C509,Healesville,P313
+C510,Cranbourne,P3199
+C511,Darwin,P2278
+C512,Campbelltown,P768
+C513,Perth,P2400
+C514,Tuncurry,P1484
+C515,Melbourne,P4591
+C516,Kyabram,P2646
+C517,Kurri Kurri,P2604
+C518,Echuca,P2747
+C519,Bowral,P4434
+C520,Lennox Head,P1309
+C521,Corowa,P823
+C522,Sanctuary Point,P3243
+C523,Scone,P1753
+C524,Moss Vale,P3434
+C525,Wauchope,P3106
+C526,Hobart,P878
+C527,Kurri Kurri,P671
+C528,Casino,P993
+C529,Wollongong,P3702
+C530,Whittlesea,P1451
+C531,North Mackay,P207
+C532,Moree,P3293
+C533,Sydney,P4091
+C534,Yass,P2406
+C535,Mount Barker,P413
+C536,Mandurah,P4612
+C537,Leopold,P2053
+C538,Sydney,P4566
+C539,Wollongong,P1533
+C540,Glen Innes,P760
+C541,Adelaide,P2352
+C542,Adelaide,P3592
+C543,Gympie,P944
+C544,Canberra,P4356
+C545,Adelaide,P2245
+C546,Melbourne,P994
+C547,Hobart,P3839
+C548,Hobart,P650
+C549,Bendigo,P704
+C550,Bomaderry,P1683
+C551,Sydney,P2999
+C552,Inverell,P3410
+C553,Kyneton,P3266
+C554,Grafton,P2796
+C555,Leopold,P2376
+C556,Echuca,P2615
+C557,Alstonville,P2795
+C558,Glen Innes,P3656
+C559,Sydney,P1856
+C560,Blaxland,P1784
+C561,Canberra,P2341
+C562,Narrabri,P4098
+C563,Kyneton,P3692
+C564,Ballina,P521
+C565,Katoomba,P4363
+C566,Sanctuary Point,P416
+C567,Perth,P174
+C568,Colac,P652
+C569,Adelaide,P397
+C570,Tuncurry,P4403
+C571,Seymour,P1594
+C572,Murwillumbah,P3615
+C573,Port Augusta,P3578
+C574,Seymour,P3859
+C575,Bli Bli,P1247
+C576,Mareeba,P4266
+C577,Sydney,P2101
+C578,Nowra,P3747
+C579,Hobart,P2467
+C580,Geelong,P1450
+C581,Blaxland,P3717
+C582,Hobart,P857
+C583,Brisbane,P4512
+C584,Point Vernon,P619
+C585,Rutherford,P805
+C586,Moree,P2635
+C587,Inverell,P4400
+C588,Hobart,P2958
+C589,Yanchep,P2828
+C590,Whittlesea,P2301
+C591,Casino,P4553
+C592,Stawell,P82
+C593,Healesville,P4077
+C594,Ulverstone,P409
+C595,North Mackay,P4232
+C596,Waterford,P2293
+C597,Geelong,P4245
+C598,Casino,P3544
+C599,Springwood,P4194
+C600,Hobart,P2875
+C601,Emu Plains,P471
+C602,Grafton,P1022
+C603,Urraween,P900
+C604,Andergrove,P388
+C605,Australind,P1848
+C606,Leeton,P3773
+C607,Campbelltown,P1286
+C608,Whittlesea,P1749
+C609,Sydney,P3397
+C610,Deniliquin,P1626
+C611,Yass,P3721
+C612,Perth,P2963
+C613,Perth,P2713
+C614,Mittagong,P3474
+C615,Scone,P1771
+C616,Canberra,P684
+C617,Mudgee,P2697
+C618,Hobart,P1613
+C619,Morwell,P1281
+C620,Maryborough,P1151
+C621,Andergrove,P2896
+C622,Emu Plains,P4480
+C623,Mount Barker,P948
+C624,Central Coast,P1880
+C625,Barwon Heads,P1488
+C626,Cranbourne,P4548
+C627,Mittagong,P2042
+C628,Dromana,P4298
+C629,Moss Vale,P2005
+C630,Bli Bli,P4435
+C631,Yanchep,P606
+C632,Morwell,P2065
+C633,Sanctuary Point,P1501
+C634,Yass,P3657
+C635,Port Augusta,P2054
+C636,Murwillumbah,P4405
+C637,Corinda,P767
+C638,Charters Towers,P429
+C639,Newcastle,P1802
+C640,Mackay,P1439
+C641,Colac,P4594
+C642,Yanchep,P2437
+C643,Tumut,P2182
+C644,Bowral,P776
+C645,Melbourne,P4047
+C646,Wynyard,P4151
+C647,Barwon Heads,P2363
+C648,Australind,P1826
+C649,Geelong,P99
+C650,Charters Towers,P2270
+C651,Central Coast,P2639
+C652,Echuca,P202
+C653,Ipswich,P331
+C654,Leongatha,P3080
+C655,Nambour,P586
+C656,Wagga Wagga,P2303
+C657,Brisbane,P2745
+C658,Leeton,P487
+C659,Hobart,P2285
+C660,Yamba,P353
+C661,Katoomba,P2576
+C662,Rutherford,P86
+C663,Mackay,P610
+C664,Tuncurry,P3891
+C665,Leeton,P1545
+C666,Ballina,P1012
+C667,Tweed Heads,P3780
+C668,Colac,P2172
+C669,Mackay,P3167
+C670,Barwon Heads,P1313
+C671,Wagga Wagga,P3616
+C672,Ulverstone,P1202
+C673,Adelaide,P4040
+C674,Merrimac,P2281
+C675,Yass,P3099
+C676,Townsville,P2982
+C677,Hobart,P1289
+C678,Grafton,P3381
+C679,Melbourne,P4269
+C680,Sydney,P3156
+C681,Fremantle,P1177
+C682,Leongatha,P3924
+C683,Ballarat,P2522
+C684,Brisbane,P1962
+C685,Scone,P3188
+C686,Mount Evelyn,P3516
+C687,Bendigo,P4492
+C688,Leeton,P2286
+C689,Canberra,P2448
+C690,Sydney,P2477
+C691,Cootamundra,P3429
+C692,Perth,P3028
+C693,Sanctuary Point,P1691
+C694,Morwell,P3214
+C695,Adelaide,P2624
+C696,Canberra,P1827
+C697,Sydney,P1516
+C698,Casino,P853
+C699,Adelaide,P2043
+C700,Hobart,P2488
+C701,Perth,P3133
+C702,Bargara,P4584
+C703,Canberra,P1542
+C704,Bongaree,P2339
+C705,Mudgee,P3988
+C706,Mudgee,P2071
+C707,Wagga Wagga,P3279
+C708,Fremantle,P115
+C709,Emu Plains,P1156
+C710,Adelaide,P9
+C711,Scone,P1820
+C712,Melbourne,P4025
+C713,Urraween,P2833
+C714,Young,P976
+C715,Healesville,P3001
+C716,Nowra,P2600
+C717,Moree,P1112
+C718,Campbelltown,P1722
+C719,Brisbane,P3504
+C720,Scone,P3476
+C721,Bongaree,P4590
+C722,Goonellabah,P3622
+C723,Sanctuary Point,P2029
+C724,Colac,P847
+C725,Katoomba,P3372
+C726,Yamba,P4275
+C727,Geelong,P3130
+C728,Grafton,P1090
+C729,Morwell,P1335
+C730,Campbelltown,P3815
+C731,Melbourne,P2631
+C732,Urraween,P4464
+C733,Barwon Heads,P2853
+C734,Glen Innes,P997
+C735,Kurri Kurri,P772
+C736,Yass,P3609
+C737,Adelaide,P4622
+C738,Inverell,P3700
+C739,Hobart,P156
+C740,Ipswich,P4517
+C741,Port Augusta,P2491
+C742,Echuca,P3457
+C743,Moree,P1028
+C744,Colac,P3697
+C745,Wallan,P2011
+C746,Yass,P3015
+C747,Echuca,P1777
+C748,Gympie,P2093
+C749,Perth,P2127
+C750,Bli Bli,P1032
+C751,Mandurah,P2515
+C752,Ipswich,P1674
+C753,Yanchep,P1759
+C754,Colac,P1529
+C755,Mudgee,P71
+C756,Toowoomba,P2716
+C757,Brisbane,P1695
+C758,North Mackay,P1608
+C759,Perth,P1401
+C760,Canberra,P902
+C761,Melbourne,P1476
+C762,Townsville,P1241
+C763,Perth,P3117
+C764,Murwillumbah,P3932
+C765,Port Augusta,P1495
+C766,Melbourne,P2699
+C767,Goonellabah,P1916
+C768,Mareeba,P4483
+C769,Murwillumbah,P2117
+C770,Gold Coast,P1055
+C771,Wauchope,P101
+C772,Australind,P2603
+C773,Yass,P920
+C774,Moss Vale,P1016
+C775,Charters Towers,P4373
+C776,Adelaide,P357
+C777,Corowa,P1264
+C778,Port Augusta,P2169
+C779,Gympie,P2948
+C780,Young,P2084
+C781,Yass,P3215
+C782,Glen Innes,P3550
+C783,Townsville,P1398
+C784,Blaxland,P2262
+C785,Muswellbrook,P1066
+C786,Clifton Springs,P2321
+C787,Canberra,P4443
+C788,Horsham,P1860
+C789,Rutherford,P3566
+C790,Mittagong,P1020
+C791,Perth,P4598
+C792,Melbourne,P476
+C793,Newcastle,P2808
+C794,Forster,P3905
+C795,Bendigo,P1854
+C796,Cessnock,P748
+C797,Wauchope,P2317
+C798,Toowoomba,P867
+C799,Grafton,P3949
+C800,Adelaide,P1068
+C801,Clifton Springs,P1394
+C802,Central Coast,P3141
+C803,Toowoomba,P585
+C804,Corinda,P3754
+C805,Bomaderry,P187
+C806,Darwin,P4538
+C807,Perth,P2031
+C808,Glen Innes,P1490
+C809,Grafton,P2612
+C810,Darwin,P2064
+C811,Morwell,P428
+C812,Canberra,P238
+C813,Melbourne,P1742
+C814,Yass,P2968
+C815,Ulverstone,P385
+C816,Canberra,P1958
+C817,Toowoomba,P2340
+C818,Melbourne,P1586
+C819,Point Vernon,P2436
+C820,Bli Bli,P4268
+C821,Melbourne,P2676
+C822,Adelaide,P2195
+C823,Brisbane,P1668
+C824,Wallan,P618
+C825,Narrabri,P735
+C826,Fremantle,P3683
+C827,Cootamundra,P1754
+C828,Perth,P2198
+C829,Kingston,P3847
+C830,Ballarat,P3048
+C831,Darwin,P4016
+C832,Kingscliff,P558
+C833,Goonellabah,P4057
+C834,Glen Innes,P3143
+C835,Sydney,P92
+C836,Melbourne,P3787
+C837,Burpengary,P3448
+C838,Perth,P4006
+C839,Emu Plains,P4525
+C840,Waterford,P1466
+C841,Brisbane,P435
+C842,Brisbane,P3300
+C843,Morwell,P1956
+C844,Toowoomba,P1967
+C845,Yass,P2715
+C846,Grafton,P2009
+C847,Waterford,P400
+C848,Dromana,P971
+C849,Australind,P1310
+C850,Cootamundra,P520
+C851,Helensburgh,P4202
+C852,Adelaide,P3999
+C853,Yamba,P3641
+C854,Corowa,P2542
+C855,Castlemaine,P2452
+C856,Yamba,P3520
+C857,Kyneton,P2211
+C858,Hobart,P1725
+C859,Geelong,P3915
+C860,Morwell,P2213
+C861,Bendigo,P2435
+C862,Nuriootpa,P1040
+C863,Sydney,P573
+C864,Tweed Heads,P270
+C865,Sydney,P1884
+C866,Nambucca Heads,P1234
+C867,Parkes,P4247
+C868,Nambucca Heads,P4388
+C869,Gympie,P1084
+C870,Nuriootpa,P375
+C871,Mount Evelyn,P3768
+C872,Sydney,P807
+C873,Urraween,P53
+C874,Cranbourne,P3023
+C875,Moree,P2587
+C876,Port Augusta,P2618
+C877,Bargara,P3672
+C878,Murwillumbah,P4281
+C879,Perth,P3254
+C880,Corinda,P1566
+C881,Darwin,P3834
+C882,Wagga Wagga,P1520
+C883,Ararat,P4607
+C884,Port Augusta,P3316
+C885,Hobart,P3823
+C886,Healesville,P548
+C887,Goonellabah,P3669
+C888,Hobart,P542
+C889,Bongaree,P954
+C890,Blaxland,P4178
+C891,Andergrove,P1410
+C892,Grafton,P3273
+C893,Sydney,P1949
+C894,Geelong,P2771
+C895,Gold Coast,P3764
+C896,Charters Towers,P1229
+C897,Bomaderry,P1224
+C898,Seymour,P4593
+C899,Swan Hill,P933
+C900,Ballarat,P2189
+C901,Moree,P4487
+C902,Helensburgh,P2364
+C903,Castlemaine,P2350
+C904,Emu Plains,P4496
+C905,Lennox Head,P4184
+C906,Perth,P3533
+C907,Cranbourne,P2733
+C908,Murwillumbah,P1424
+C909,Melbourne,P2074
+C910,Urraween,P4129
+C911,Katoomba,P1298
+C912,Sydney,P3311
+C913,Bli Bli,P2585
+C914,Australind,P3104
+C915,Brisbane,P3871
+C916,Canberra,P1781
+C917,Brisbane,P3176
+C918,Goonellabah,P1435
+C919,Mount Barker,P4282
+C920,Australind,P1845
+C921,Nambucca Heads,P63
+C922,Mackay,P2018
+C923,Tweed Heads,P3838
+C924,Inverell,P328
+C925,Burpengary,P1946
+C926,Geelong,P849
+C927,Whittlesea,P4519
+C928,Toowoomba,P1137
+C929,Wynyard,P1346
+C930,Goonellabah,P3900
+C931,Perth,P2370
+C932,Hobart,P3
+C933,Sydney,P2277
+C934,Emu Plains,P4497
+C935,Scone,P1620
+C936,Geelong,P104
+C937,Kurri Kurri,P1448
+C938,Nowra,P2893
+C939,Cranbourne,P1496
+C940,Ararat,P4161
+C941,Alstonville,P4489
+C942,Mount Barker,P2413
+C943,Hobart,P1952
+C944,Urraween,P2812
+C945,Dromana,P4315
+C946,Yamba,P890
+C947,Gold Coast,P665
+C948,Sydney,P4212
+C949,Bomaderry,P2137
+C950,Hobart,P2564
+C951,Mittagong,P1434
+C952,Wauchope,P227
+C953,Helensburgh,P1701
+C954,Melbourne,P4065
+C955,Nambucca Heads,P4107
+C956,Deniliquin,P309
+C957,Parkes,P596
+C958,Sydney,P2305
+C959,Perth,P1153
+C960,Perth,P2642
+C961,Sydney,P574
+C962,Yanchep,P3312
+C963,Castlemaine,P964
+C964,Springwood,P1905
+C965,Healesville,P599
+C966,Toowoomba,P171
+C967,Mandurah,P444
+C968,Mareeba,P4611
+C969,Sydney,P645
+C970,Young,P3036
+C971,Ararat,P2161
+C972,Corowa,P1731
+C973,Perth,P4614
+C974,Forster,P2569
+C975,Casino,P290
+C976,Waterford,P632
+C977,Campbelltown,P2591
+C978,Colac,P611
+C979,Ipswich,P4046
+C980,Wauchope,P4306
+C981,Perth,P884
+C982,Canberra,P4144
+C983,Central Coast,P1382
+C984,Mudgee,P2118
+C985,Port Augusta,P472
+C986,Perth,P2454
+C987,Hobart,P1277
+C988,Kyneton,P2288
+C989,Castlemaine,P4575
+C990,Newcastle,P1429
+C991,Bongaree,P2192
+C992,Campbelltown,P3238
+C993,Barwon Heads,P1768
+C994,Leongatha,P3272
+C995,Rutherford,P1054
+C996,Nuriootpa,P4448
+C997,Mount Evelyn,P1649
+C998,Mandurah,P3785
+C999,Mount Barker,P3687
+C1000,Andergrove,P226
+C1001,Point Vernon,P1740
+C1002,Bargara,P4217
+C1003,Melbourne,P3686
+C1004,Melbourne,P3793
+C1005,Brisbane,P3527
+C1006,Canberra,P2560
+C1007,Mandurah,P2926
+C1008,Leeton,P4408
+C1009,Sydney,P950
+C1010,Melbourne,P47
+C1011,Muswellbrook,P1656
+C1012,Deniliquin,P2742
+C1013,Sydney,P33
+C1014,Wynyard,P3928
+C1015,Canberra,P3580
+C1016,Tweed Heads,P1199
+C1017,Mudgee,P3632
+C1018,Glen Innes,P4619
+C1019,Sydney,P368
+C1020,Deniliquin,P2887
+C1021,Merrimac,P762
+C1022,Charters Towers,P2191
+C1023,Kurri Kurri,P562
+C1024,Yass,P4398
+C1025,Waterford,P2928
+C1026,Sydney,P895
+C1027,Mudgee,P1899
+C1028,Merrimac,P2581
+C1029,Brisbane,P2333
+C1030,Cairns,P2216
+C1031,Mount Evelyn,P3634
+C1032,Wynyard,P3382
+C1033,Barwon Heads,P3203
+C1034,Urraween,P1361
+C1035,Cootamundra,P1152
+C1036,Echuca,P191
+C1037,Cessnock,P1786
+C1038,Melbourne,P2530
+C1039,Barwon Heads,P2838
+C1040,Helensburgh,P1596
+C1041,Melbourne,P593
+C1042,Emu Plains,P344
+C1043,Cairns,P257
+C1044,Urraween,P4222
+C1045,Mudgee,P3131
+C1046,Canberra,P1201
+C1047,Darwin,P1819
+C1048,Yass,P4558
+C1049,Moss Vale,P3723
+C1050,Melbourne,P1846
+C1051,Horsham,P2326
+C1052,Bowral,P2299
+C1053,Horsham,P3639
+C1054,Port Augusta,P1295
+C1055,Sydney,P3750
+C1056,Bli Bli,P2378
+C1057,Bowral,P3564
+C1058,Melbourne,P961
+C1059,Perth,P1221
+C1060,Swan Hill,P1610
+C1061,Adelaide,P2605
+C1062,Murwillumbah,P451
+C1063,Melbourne,P1942
+C1064,Launceston,P2951
+C1065,Kurri Kurri,P1578
+C1066,Wagga Wagga,P4142
+C1067,Cootamundra,P462
+C1068,Leongatha,P1694
+C1069,Rutherford,P1179
+C1070,Sydney,P399
+C1071,Casino,P4209
+C1072,Leopold,P4105
+C1073,Helensburgh,P3789
+C1074,Campbelltown,P3846
+C1075,Nambour,P2476
+C1076,Ballina,P494
+C1077,Helensburgh,P563
+C1078,Canberra,P3218
+C1079,Merrimac,P1417
+C1080,Canberra,P2788
+C1081,Colac,P3349
+C1082,Bomaderry,P305
+C1083,Emu Plains,P2014
+C1084,Urraween,P2446
+C1085,Brisbane,P3552
+C1086,Waterford,P1728
+C1087,Healesville,P4445
+C1088,Ulverstone,P1091
+C1089,Corowa,P1534
+C1090,Sydney,P2253
+C1091,Ararat,P455
+C1092,Bargara,P3318
+C1093,Healesville,P3770
+C1094,Moree,P1426
+C1095,Narrabri,P2644
+C1096,Ipswich,P3701
+C1097,Young,P2849
+C1098,Goonellabah,P2883
+C1099,Corinda,P1930
+C1100,Leongatha,P2567
+C1101,Strathalbyn,P2559
+C1102,Mount Barker,P1887
+C1103,Kyabram,P1475
+C1104,Brisbane,P1021
+C1105,Andergrove,P4307
+C1106,Helensburgh,P2482
+C1107,Cowra,P405
+C1108,Perth,P1377
+C1109,Mackay,P893
+C1110,Gympie,P1477
+C1111,Glen Innes,P180
+C1112,Moree,P66
+C1113,Stawell,P2455
+C1114,Mandurah,P4500
+C1115,Inverell,P2329
+C1116,Corowa,P3239
+C1117,Barwon Heads,P1938
+C1118,Lakes Entrance,P4227
+C1119,Wollongong,P1018
+C1120,Goonellabah,P702
+C1121,Inverell,P3112
+C1122,Canberra,P34
+C1123,Seymour,P304
+C1124,Yanchep,P2079
+C1125,Forster,P1913
+C1126,Brisbane,P1186
+C1127,Bongaree,P2019
+C1128,Brisbane,P4241
+C1129,Ipswich,P2112
+C1130,Blaxland,P2904
+C1131,Nambucca Heads,P456
+C1132,Nowra,P922
+C1133,Lennox Head,P2135
+C1134,Kurri Kurri,P1305
+C1135,Bomaderry,P1836
+C1136,Katoomba,P2418
+C1137,Kingston,P3974
+C1138,Ulverstone,P3513
+C1139,Bongaree,P5
+C1140,Australind,P1657
+C1141,Leongatha,P3055
+C1142,Lennox Head,P2621
+C1143,Healesville,P4502
+C1144,Burpengary,P477
+C1145,Mooroopna,P300
+C1146,Sydney,P2015
+C1147,Sanctuary Point,P2478
+C1148,Merrimac,P1411
+C1149,Campbelltown,P1637
+C1150,Ballina,P1285
+C1151,Perth,P3096
+C1152,Forster,P3898
+C1153,Mooroopna,P4367
+C1154,Healesville,P1564
+C1155,Perth,P2088
+C1156,Bendigo,P1807
+C1157,Wauchope,P1714
+C1158,Tweed Heads,P1681
+C1159,Kurri Kurri,P634
+C1160,Yass,P1105
+C1161,Hobart,P248
+C1162,Morwell,P1347
+C1163,Canberra,P4017
+C1164,Toowoomba,P3604
+C1165,Stawell,P956
+C1166,Parkes,P3911
+C1167,Muswellbrook,P2494
+C1168,Echuca,P1573
+C1169,Bendigo,P2318
+C1170,Wagga Wagga,P2547
+C1171,Sydney,P203
+C1172,Yanchep,P3791
+C1173,Canberra,P1888
+C1174,Leeton,P1687
+C1175,Perth,P838
+C1176,Melbourne,P3621
+C1177,Sydney,P3414
+C1178,Melbourne,P3285
+C1179,Helensburgh,P3559
+C1180,Echuca,P1638
+C1181,Blaxland,P2923
+C1182,Colac,P4439
+C1183,Corinda,P4079
+C1184,Parkes,P2986
+C1185,Strathalbyn,P3679
+C1186,Fremantle,P118
+C1187,Ipswich,P3443
+C1188,Seymour,P1517
+C1189,Horsham,P1642
+C1190,Mooroopna,P2927
+C1191,Grafton,P1039
+C1192,Sydney,P3364
+C1193,North Mackay,P4354
+C1194,Yanchep,P2405
+C1195,Dromana,P2097
+C1196,Bargara,P3054
+C1197,Bli Bli,P1131
+C1198,Townsville,P4123
+C1199,Nowra,P1001
+C1200,Casino,P3644
+C1201,Townsville,P3416
+C1202,Yamba,P3075
+C1203,Canberra,P2746
+C1204,Cairns,P284
+C1205,Launceston,P2870
+C1206,Yass,P3183
+C1207,Perth,P943
+C1208,Central Coast,P146
+C1209,North Mackay,P3731
+C1210,Corowa,P668
+C1211,Kyabram,P1926
+C1212,Bomaderry,P3730
+C1213,Perth,P1647
+C1214,Mount Evelyn,P1269
+C1215,Leeton,P411
+C1216,Strathalbyn,P3444
+C1217,Casino,P2756
+C1218,Hobart,P1702
+C1219,Nambour,P1444
+C1220,Canberra,P61
+C1221,Wagga Wagga,P4092
+C1222,Kurri Kurri,P633
+C1223,Ballarat,P3901
+C1224,Brisbane,P318
+C1225,Kyneton,P2688
+C1226,Glen Innes,P3144
+C1227,North Mackay,P167
+C1228,Mount Evelyn,P223
+C1229,Corowa,P15
+C1230,Gympie,P4397
+C1231,Kyneton,P1812
+C1232,Burpengary,P576
+C1233,Melbourne,P440
+C1234,Sydney,P4394
+C1235,Stawell,P4407
+C1236,Brisbane,P1232
+C1237,Goonellabah,P273
+C1238,Hobart,P3417
+C1239,Maryborough,P458
+C1240,Casino,P3813
+C1241,Tweed Heads,P3528
+C1242,Ulverstone,P3920
+C1243,Waterford,P4045
+C1244,Whittlesea,P3004
+C1245,Goonellabah,P928
+C1246,Mittagong,P2457
+C1247,Launceston,P751
+C1248,Leeton,P2379
+C1249,Adelaide,P1885
+C1250,Tuncurry,P2905
+C1251,Nambucca Heads,P245
+C1252,Perth,P1492
+C1253,Adelaide,P1790
+C1254,Port Augusta,P1842
+C1255,Adelaide,P3979
+C1256,Goonellabah,P1463
+C1257,Wollongong,P2915
+C1258,Gold Coast,P500
+C1259,Mandurah,P3413
+C1260,Helensburgh,P3046
+C1261,Horsham,P3010
+C1262,Bendigo,P4475
+C1263,Hobart,P4409
+C1264,Wynyard,P308
+C1265,Young,P2257
+C1266,Andergrove,P1787
+C1267,Bli Bli,P2584
+C1268,Alstonville,P2358
+C1269,Wauchope,P2827
+C1270,Springwood,P3490
+C1271,Strathalbyn,P6
+C1272,Nambour,P2637
+C1273,Mudgee,P1478
+C1274,Adelaide,P1213
+C1275,Cootamundra,P3384
+C1276,Sydney,P4472
+C1277,Ballina,P3569
+C1278,Cairns,P4108
+C1279,Mount Barker,P209
+C1280,Young,P2328
+C1281,Maryborough,P623
+C1282,Mackay,P4609
+C1283,Sydney,P4587
+C1284,Moree,P2483
+C1285,Clifton Springs,P1031
+C1286,Wauchope,P2134
+C1287,Melbourne,P1440
+C1288,Ipswich,P755
+C1289,Adelaide,P2832
+C1290,Echuca,P265
+C1291,Narrabri,P13
+C1292,Corinda,P3085
+C1293,Nuriootpa,P1209
+C1294,Whittlesea,P3732
+C1295,Melbourne,P4554
+C1296,Healesville,P3437
+C1297,Bongaree,P69
+C1298,Tuncurry,P1965
+C1299,Sydney,P3742
+C1300,Hobart,P3025
+C1301,Healesville,P3860
+C1302,Cootamundra,P697
+C1303,Wauchope,P4316
+C1304,Point Vernon,P3739
+C1305,Muswellbrook,P2157
+C1306,Yamba,P288
+C1307,Wynyard,P3493
+C1308,Yamba,P1874
+C1309,Leopold,P925
+C1310,Perth,P3237
+C1311,Blaxland,P4198
+C1312,Tuncurry,P990
+C1313,Campbelltown,P3433
+C1314,Scone,P1166
+C1315,Newcastle,P1239
+C1316,Grafton,P3017
+C1317,Leeton,P2651
+C1318,Cessnock,P3206
+C1319,Leeton,P2767
+C1320,Cessnock,P3284
+C1321,Campbelltown,P2110
+C1322,Gold Coast,P1937
+C1323,Forster,P983
+C1324,Horsham,P2219
+C1325,Kyabram,P4044
+C1326,Mount Barker,P1853
+C1327,Fremantle,P2243
+C1328,Moss Vale,P2306
+C1329,Moss Vale,P1598
+C1330,Lakes Entrance,P2024
+C1331,Brisbane,P3786
+C1332,Clifton Springs,P371
+C1333,Goonellabah,P4419
+C1334,Wauchope,P3013
+C1335,Central Coast,P1707
+C1336,Australind,P2140
+C1337,Melbourne,P3264
+C1338,Wagga Wagga,P1869
+C1339,Helensburgh,P3069
+C1340,Campbelltown,P3073
+C1341,Newcastle,P874
+C1342,Ipswich,P279
+C1343,Australind,P40
+C1344,Casino,P2510
+C1345,Canberra,P4109
+C1346,Melbourne,P260
+C1347,Healesville,P2947
+C1348,Ipswich,P2991
+C1349,Port Augusta,P4380
+C1350,Mount Barker,P323
+C1351,Barwon Heads,P2056
+C1352,Leeton,P3380
+C1353,Cranbourne,P4446
+C1354,Mittagong,P2935
+C1355,Cootamundra,P1026
+C1356,Nambucca Heads,P1035
+C1357,Mudgee,P628
+C1358,Wagga Wagga,P1386
+C1359,Kurri Kurri,P1850
+C1360,Brisbane,P2613
+C1361,Sanctuary Point,P1662
+C1362,Leeton,P3934
+C1363,Kyabram,P2046
+C1364,Fremantle,P891
+C1365,Moree,P2217
+C1366,North Mackay,P4230
+C1367,Brisbane,P861
+C1368,Nambucca Heads,P3758
+C1369,Mareeba,P3567
+C1370,Wauchope,P2974
+C1371,Lennox Head,P505
+C1372,Dromana,P3902
+C1373,Perth,P1089
+C1374,Bomaderry,P2617
+C1375,Echuca,P2626
+C1376,Australind,P1943
+C1377,Mittagong,P3092
+C1378,Narrabri,P2246
+C1379,Wagga Wagga,P1301
+C1380,Perth,P3387
+C1381,Perth,P2158
+C1382,Nambucca Heads,P757
+C1383,Ulverstone,P2752
+C1384,Bli Bli,P4137
+C1385,Seymour,P224
+C1386,Ballarat,P2497
+C1387,Whittlesea,P3460
+C1388,Melbourne,P4541
+C1389,Brisbane,P490
+C1390,Cowra,P4235
+C1391,Sydney,P3519
+C1392,Casino,P1095
+C1393,Geelong,P3330
+C1394,Murwillumbah,P693
+C1395,Nowra,P1092
+C1396,Australind,P3605
+C1397,Australind,P2010
+C1398,Melbourne,P2295
+C1399,Deniliquin,P721
+C1400,Cranbourne,P2104
+C1401,Kingston,P4312
+C1402,Mount Evelyn,P3102
+C1403,Kyneton,P4532
+C1404,Fremantle,P2420
+C1405,Melbourne,P556
+C1406,Bowral,P1167
+C1407,Mudgee,P3385
+C1408,Tweed Heads,P1006
+C1409,Deniliquin,P2016
+C1410,Bomaderry,P569
+C1411,Lakes Entrance,P3040
+C1412,Perth,P163
+C1413,Springwood,P2096
+C1414,Whittlesea,P3388
+C1415,Perth,P2622
+C1416,Bendigo,P3606
+C1417,Hobart,P2242
+C1418,Barwon Heads,P4518
+C1419,Castlemaine,P4422
+C1420,Campbelltown,P2859
+C1421,Waterford,P3854
+C1422,Grafton,P298
+C1423,Gold Coast,P3696
+C1424,Glen Innes,P129
+C1425,Leopold,P2548
+C1426,Gold Coast,P3995
+C1427,Yanchep,P2916
+C1428,Forster,P1627
+C1429,Fremantle,P65
+C1430,Corinda,P2460
+C1431,Moree,P1537
+C1432,Kyneton,P431
+C1433,Emu Plains,P3876
+C1434,Narrabri,P1097
+C1435,Cessnock,P872
+C1436,Adelaide,P100
+C1437,Young,P325
+C1438,Sydney,P2869
+C1439,Castlemaine,P3921
+C1440,Leeton,P2886
+C1441,Gympie,P658
+C1442,Merrimac,P3389
+C1443,Adelaide,P2751
+C1444,Castlemaine,P3173
+C1445,Nambour,P1883
+C1446,Whittlesea,P4565
+C1447,Central Coast,P107
+C1448,Adelaide,P4199
+C1449,Canberra,P813
+C1450,Wauchope,P783
+C1451,Toowoomba,P570
+C1452,Cowra,P1923
+C1453,Perth,P1405
+C1454,Yanchep,P538
+C1455,Morwell,P761
+C1456,Inverell,P1332
+C1457,Launceston,P875
+C1458,Lennox Head,P3971
+C1459,North Mackay,P2203
+C1460,Sydney,P407
+C1461,Inverell,P3418
+C1462,Kyneton,P1908
+C1463,Casino,P798
+C1464,Melbourne,P2730
+C1465,Glen Innes,P2050
+C1466,Nambour,P45
+C1467,Seymour,P3044
+C1468,Muswellbrook,P3462
+C1469,Strathalbyn,P152
+C1470,Wagga Wagga,P1765
+C1471,Clifton Springs,P2473
+C1472,Kyabram,P2486
+C1473,Tuncurry,P1214
+C1474,Waterford,P4585
+C1475,Merrimac,P454
+C1476,Burpengary,P909
+C1477,Perth,P1029
+C1478,Sydney,P4058
+C1479,Cannonvale,P1963
+C1480,Barwon Heads,P512
+C1481,Canberra,P39
+C1482,Mudgee,P464
+C1483,Horsham,P3556
+C1484,Kingscliff,P1009
+C1485,Narrabri,P2030
+C1486,Central Coast,P3943
+C1487,Morwell,P1721
+C1488,Adelaide,P1076
+C1489,Glen Innes,P3259
+C1490,Kingston,P1353
+C1491,Goonellabah,P1834
+C1492,Young,P3547
+C1493,Melbourne,P2447
+C1494,Charters Towers,P1351
+C1495,Cessnock,P1418
+C1496,Wallan,P1980
+C1497,Melbourne,P2800
+C1498,Toowoomba,P4314
+C1499,Tumut,P2334
+C1500,Alstonville,P3833
+C1501,Yanchep,P3154
+C1502,Adelaide,P1985
+C1503,Melbourne,P854
+C1504,Toowoomba,P208
+C1505,Sydney,P3738
+C1506,Sydney,P677
+C1507,Yass,P3097
+C1508,Launceston,P3334
+C1509,Swan Hill,P4621
+C1510,Port Augusta,P4617
+C1511,Moree,P2577
+C1512,Bowral,P4547
+C1513,Melbourne,P194
+C1514,Castlemaine,P2122
+C1515,Barwon Heads,P2440
+C1516,Goonellabah,P2517
+C1517,Brisbane,P572
+C1518,Casino,P2839
+C1519,Cranbourne,P412
+C1520,Echuca,P2988
+C1521,Toowoomba,P1925
+C1522,Mandurah,P2764
+C1523,Charters Towers,P3321
+C1524,Yamba,P377
+C1525,Charters Towers,P714
+C1526,Kingscliff,P3145
+C1527,Wynyard,P392
+C1528,Hobart,P2279
+C1529,Waterford,P2794
+C1530,Inverell,P3398
+C1531,Australind,P93
+C1532,Sydney,P2240
+C1533,Sydney,P94
+C1534,Forster,P3219
+C1535,Nowra,P4285
+C1536,Perth,P52
+C1537,Brisbane,P3993
+C1538,Launceston,P3439
+C1539,Kingscliff,P687
+C1540,Burpengary,P3361
+C1541,Canberra,P110
+C1542,Corowa,P442
+C1543,Waterford,P2992
+C1544,Canberra,P4263
+C1545,Bomaderry,P1700
+C1546,Adelaide,P26
+C1547,Brisbane,P1511
+C1548,Cranbourne,P3688
+C1549,Tumut,P2204
+C1550,Sanctuary Point,P3772
+C1551,Townsville,P1840
+C1552,Mooroopna,P4412
+C1553,Blaxland,P2519
+C1554,Yanchep,P2956
+C1555,Wynyard,P1903
+C1556,Cootamundra,P1673
+C1557,Perth,P2954
+C1558,Nambour,P3427
+C1559,Clifton Springs,P2871
+C1560,Newcastle,P379
+C1561,Canberra,P2897
+C1562,Mareeba,P3294
+C1563,Tweed Heads,P4393
+C1564,Canberra,P2725
+C1565,Goonellabah,P1191
+C1566,Katoomba,P4527
+C1567,Gold Coast,P1629
+C1568,Burpengary,P3282
+C1569,Castlemaine,P4290
+C1570,Kingscliff,P3629
+C1571,Brisbane,P3682
+C1572,Wallan,P1868
+C1573,Goonellabah,P1491
+C1574,Canberra,P2989
+C1575,Sydney,P739
+C1576,Sydney,P3185
+C1577,Wallan,P2300
+C1578,Hobart,P143
+C1579,Muswellbrook,P3415
+C1580,Barwon Heads,P4376
+C1581,Morwell,P4096
+C1582,Helensburgh,P3530
+C1583,Strathalbyn,P274
+C1584,Nowra,P160
+C1585,Campbelltown,P2021
+C1586,Brisbane,P3326
+C1587,Perth,P37
+C1588,Parkes,P1659
+C1589,Rutherford,P4002
+C1590,Parkes,P4516
+C1591,Nambucca Heads,P1462
+C1592,Charters Towers,P4063
+C1593,Young,P1333
+C1594,Parkes,P2484
+C1595,Melbourne,P4280
+C1596,Mittagong,P3152
+C1597,Campbelltown,P3220
+C1598,Perth,P363
+C1599,Cairns,P789
+C1600,Muswellbrook,P1939
+C1601,Young,P4168
+C1602,Kyneton,P4351
+C1603,Mooroopna,P4441
+C1604,Ararat,P1231
+C1605,Cowra,P3094
+C1606,Springwood,P814
+C1607,Adelaide,P2498
+C1608,Kyabram,P1270
+C1609,Cowra,P2503
+C1610,Brisbane,P3753
+C1611,Canberra,P4620
+C1612,Grafton,P1493
+C1613,Moree,P1775
+C1614,Lakes Entrance,P1747
+C1615,Lennox Head,P1580
+C1616,Springwood,P1760
+C1617,Mount Barker,P2261
+C1618,Campbelltown,P1904
+C1619,Yamba,P1919
+C1620,Alstonville,P3727
+C1621,Kyabram,P1190
+C1622,Yanchep,P338
+C1623,Mount Evelyn,P3296
+C1624,Ulverstone,P237
+C1625,Brisbane,P1355
+C1626,Morwell,P864
+C1627,Blaxland,P3712
+C1628,Townsville,P1088
+C1629,Point Vernon,P4112
+C1630,Kyabram,P3947
+C1631,Darwin,P241
+C1632,Bendigo,P2445
+C1633,Scone,P3325
+C1634,Sydney,P1600
+C1635,Melbourne,P2144
+C1636,Lennox Head,P2120
+C1637,Rutherford,P2840
+C1638,Glen Innes,P4456
+C1639,Mackay,P35
+C1640,Horsham,P3095
+C1641,Cairns,P3945
+C1642,Moss Vale,P705
+C1643,Nambour,P2665
+C1644,Echuca,P2061
+C1645,Tweed Heads,P4544
+C1646,Nowra,P2150
+C1647,Tuncurry,P3549
+C1648,Bowral,P3725
+C1649,Adelaide,P4377
+C1650,Kingscliff,P142
+C1651,Merrimac,P3396
+C1652,Hobart,P3737
+C1653,Brisbane,P2953
+C1654,Casino,P3344
+C1655,Melbourne,P629
+C1656,Melbourne,P4082
+C1657,Yass,P3016
+C1658,Bowral,P162
+C1659,Campbelltown,P349
+C1660,Moss Vale,P1331
+C1661,Inverell,P3539
+C1662,Wallan,P1697
+C1663,Echuca,P1928
+C1664,Perth,P3638
+C1665,Nuriootpa,P97
+C1666,Wallan,P4122
+C1667,Nambucca Heads,P1420
+C1668,Brisbane,P2136
+C1669,Whittlesea,P2741
+C1670,Melbourne,P688
+C1671,Cranbourne,P3788
+C1672,Narrabri,P4415
+C1673,Adelaide,P4074
+C1674,Perth,P3262
+C1675,Echuca,P1160
+C1676,Corowa,P3708
+C1677,Campbelltown,P468
+C1678,Horsham,P128
+C1679,Canberra,P359
+C1680,Horsham,P749
+C1681,Sydney,P1364
+C1682,Mount Evelyn,P2809
+C1683,Dromana,P829
+C1684,Moree,P906
+C1685,Leopold,P2355
+C1686,Sydney,P1609
+C1687,Yass,P1518
+C1688,Stawell,P3806
+C1689,Kyneton,P2319
+C1690,Katoomba,P4169
+C1691,Young,P1635
+C1692,Ipswich,P2289
+C1693,Charters Towers,P602
+C1694,Melbourne,P360
+C1695,Barwon Heads,P3489
+C1696,Melbourne,P2805
+C1697,Narrabri,P4499
+C1698,Sydney,P4606
+C1699,Kyneton,P2962
+C1700,Corowa,P1061
+C1701,Burpengary,P1736
+C1702,Cootamundra,P192
+C1703,Brisbane,P135
+C1704,Leeton,P903
+C1705,Wauchope,P1113
+C1706,Melbourne,P307
+C1707,Nambour,P4195
+C1708,Adelaide,P3165
+C1709,Tweed Heads,P565
+C1710,Casino,P3056
+C1711,Muswellbrook,P2232
+C1712,Dromana,P2495
+C1713,Mittagong,P1487
+C1714,Nambucca Heads,P2922
+C1715,Cowra,P2696
+C1716,Hobart,P2116
+C1717,Tumut,P1497
+C1718,Hobart,P2229
+C1719,Goonellabah,P962
+C1720,Brisbane,P1507
+C1721,Narrabri,P166
+C1722,Inverell,P1698
+C1723,Castlemaine,P2814
+C1724,Yass,P3694
+C1725,Cranbourne,P2223
+C1726,Nowra,P889
+C1727,Sydney,P4486
+C1728,Mount Barker,P3497
+C1729,Leongatha,P1017
+C1730,Perth,P3618
+C1731,Merrimac,P4265
+C1732,Moree,P1561
+C1733,Yass,P1235
+C1734,Glen Innes,P372
+C1735,Merrimac,P98
+C1736,Lakes Entrance,P3063
+C1737,Emu Plains,P3760
+C1738,Brisbane,P3893
+C1739,Launceston,P3881
+C1740,Newcastle,P686
+C1741,Mount Barker,P2857
+C1742,Melbourne,P1467
+C1743,Inverell,P1064
+C1744,Launceston,P1693
+C1745,Seymour,P2541
+C1746,Cranbourne,P1362
+C1747,North Mackay,P4366
+C1748,Melbourne,P3100
+C1749,Yass,P2092
+C1750,Melbourne,P3643
+C1751,North Mackay,P2212
+C1752,Merrimac,P2901
+C1753,Mandurah,P3027
+C1754,Melbourne,P4372
+C1755,Moss Vale,P2568
+C1756,Cowra,P3030
+C1757,North Mackay,P1459
+C1758,Mooroopna,P3351
+C1759,Adelaide,P1519
+C1760,Port Augusta,P2008
+C1761,Morwell,P3903
+C1762,Sanctuary Point,P4481
+C1763,Murwillumbah,P3671
+C1764,Inverell,P4251
+C1765,Strathalbyn,P3653
+C1766,Colac,P158
+C1767,Helensburgh,P2575
+C1768,Ballarat,P3985
+C1769,Strathalbyn,P914
+C1770,Yamba,P3340
+C1771,Lakes Entrance,P337
+C1772,Wauchope,P577
+C1773,Mooroopna,P247
+C1774,Brisbane,P3265
+C1775,Waterford,P1993
+C1776,Moss Vale,P1692
+C1777,Hobart,P1717
+C1778,Moss Vale,P1973
+C1779,Brisbane,P2731
+C1780,Sydney,P2228
+C1781,Adelaide,P746
+C1782,Nambour,P1503
+C1783,Corowa,P627
+C1784,Seymour,P1876
+C1785,Corinda,P354
+C1786,Cessnock,P4582
+C1787,Gold Coast,P4259
+C1788,Rutherford,P3317
+C1789,Swan Hill,P4303
+C1790,Adelaide,P2908
+C1791,Sydney,P1111
+C1792,Lennox Head,P4479
+C1793,Leopold,P2023
+C1794,Horsham,P2310
+C1795,Wauchope,P587
+C1796,Melbourne,P2099
+C1797,Castlemaine,P833
+C1798,Rutherford,P3276
+C1799,Castlemaine,P4365
+C1800,Melbourne,P4509
+C1801,Mandurah,P2424
+C1802,Mittagong,P3726
+C1803,Sydney,P3260
+C1804,Maryborough,P793
+C1805,Mittagong,P3579
+C1806,Adelaide,P1181
+C1807,Young,P4032
+C1808,Inverell,P3540
+C1809,Cessnock,P4117
+C1810,Moree,P775
+C1811,Toowoomba,P2924
+C1812,Kingscliff,P4537
+C1813,Bowral,P1004
+C1814,Springwood,P1159
+C1815,Kingscliff,P3536
+C1816,Sydney,P1666
+C1817,Brisbane,P2070
+C1818,Toowoomba,P1909
+C1819,Bowral,P2111
+C1820,Perth,P1890
+C1821,Port Augusta,P3307
+C1822,Goonellabah,P267
+C1823,Nambour,P3223
+C1824,Katoomba,P1705
+C1825,Merrimac,P4167
+C1826,Ballarat,P974
+C1827,Young,P1498
+C1828,Moree,P1988
+C1829,Horsham,P2081
+C1830,Murwillumbah,P3480
+C1831,Grafton,P2679
+C1832,Nambucca Heads,P1236
+C1833,Cowra,P1857
+C1834,Cannonvale,P4576
+C1835,Wynyard,P2280
+C1836,Lennox Head,P2537
+C1837,Andergrove,P3775
+C1838,Kurri Kurri,P4490
+C1839,Goonellabah,P2410
+C1840,Deniliquin,P4413
+C1841,Cootamundra,P3337
+C1842,Launceston,P2554
+C1843,Scone,P3179
+C1844,Nowra,P447
+C1845,Leeton,P2874
+C1846,Seymour,P2792
+C1847,Glen Innes,P1843
+C1848,Kyabram,P4153
+C1849,Sanctuary Point,P1648
+C1850,Brisbane,P2215
+C1851,Bargara,P4064
+C1852,Port Augusta,P2729
+C1853,Nambour,P1461
+C1854,Sydney,P840
+C1855,Launceston,P4341
+C1856,Ipswich,P2496
+C1857,Kingscliff,P508
+C1858,Whittlesea,P1810
+C1859,Strathalbyn,P625
+C1860,Burpengary,P1735
+C1861,Nowra,P2549
+C1862,Adelaide,P127
+C1863,Canberra,P4004
+C1864,Nowra,P2399
+C1865,Cairns,P1560
+C1866,Campbelltown,P2608
+C1867,Leeton,P1413
+C1868,Adelaide,P2556
+C1869,Newcastle,P342
+C1870,Maryborough,P999
+C1871,Brisbane,P4143
+C1872,Sydney,P1606
+C1873,Leeton,P72
+C1874,Melbourne,P3242
+C1875,Colac,P181
+C1876,Deniliquin,P3478
+C1877,Cootamundra,P2366
+C1878,Melbourne,P1785
+C1879,Young,P3377
+C1880,Brisbane,P3401
+C1881,Yass,P3037
+C1882,Barwon Heads,P614
+C1883,Perth,P3034
+C1884,Stawell,P800
+C1885,Mandurah,P2980
+C1886,Sydney,P3855
+C1887,Seymour,P1324
+C1888,Ballarat,P4510
+C1889,Hobart,P2187
+C1890,Cairns,P116
+C1891,Leopold,P3374
+C1892,Lakes Entrance,P182
+C1893,Bowral,P1685
+C1894,North Mackay,P3857
+C1895,Lennox Head,P3981
+C1896,Mudgee,P2100
+C1897,Perth,P1266
+C1898,Melbourne,P3078
+C1899,Kyneton,P1512
+C1900,Canberra,P522
+C1901,Clifton Springs,P3062
+C1902,Deniliquin,P499
+C1903,Moree,P3661
+C1904,Australind,P3400
+C1905,Andergrove,P3591
+C1906,Echuca,P3684
+C1907,Maryborough,P3485
+C1908,Port Augusta,P3601
+C1909,Mount Barker,P3402
+C1910,Healesville,P2283
+C1911,Geelong,P4370
+C1912,Ararat,P580
+C1913,Springwood,P1841
+C1914,Adelaide,P196
+C1915,Alstonville,P4420
+C1916,Swan Hill,P1406
+C1917,Mandurah,P2819
+C1918,Ipswich,P3201
+C1919,Cairns,P880
+C1920,Sydney,P427
+C1921,Colac,P3149
+C1922,Corinda,P3534
+C1923,Sydney,P4157
+C1924,Perth,P4170
+C1925,Port Augusta,P2763
+C1926,Burpengary,P952
+C1927,Bongaree,P4321
+C1928,Charters Towers,P1816
+C1929,Wynyard,P1051
+C1930,Perth,P3918
+C1931,Casino,P2606
+C1932,Adelaide,P1515
+C1933,Gympie,P3204
+C1934,Casino,P1184
+C1935,Newcastle,P491
+C1936,Perth,P4027
+C1937,Alstonville,P1544
+C1938,Sydney,P3551
+C1939,Parkes,P4284
+C1940,Port Augusta,P1348
+C1941,Urraween,P76
+C1942,Barwon Heads,P2678
+C1943,Wauchope,P2574
+C1944,Toowoomba,P339
+C1945,Wallan,P597
+C1946,Canberra,P269
+C1947,Ararat,P792
+C1948,Helensburgh,P481
+C1949,Stawell,P706
+C1950,Yass,P2034
+C1951,Bargara,P3660
+C1952,Adelaide,P10
+C1953,Fremantle,P759
+C1954,Bendigo,P1162
+C1955,Hobart,P1205
+C1956,Brisbane,P657
+C1957,Perth,P2439
+C1958,Parkes,P3399
+C1959,Lakes Entrance,P3253
+C1960,Canberra,P3956
+C1961,Perth,P551
+C1962,Horsham,P1591
+C1963,Echuca,P4127
+C1964,Young,P1146
+C1965,Andergrove,P2565
+C1966,Stawell,P2098
+C1967,Canberra,P1438
+C1968,Tuncurry,P2360
+C1969,Perth,P3405
+C1970,Whittlesea,P4348
+C1971,Cootamundra,P2314
+C1972,Springwood,P1552
+C1973,Swan Hill,P3588
+C1974,Goonellabah,P2666
+C1975,Yamba,P261
+C1976,Nambour,P1238
+C1977,Sydney,P3662
+C1978,Echuca,P3192
+C1979,Katoomba,P2252
+C1980,Mooroopna,P488
+C1981,Kurri Kurri,P3494
+C1982,Cessnock,P3146
+C1983,Perth,P1960
+C1984,Rutherford,P3935
+C1985,Sydney,P2207
+C1986,Maryborough,P2504
+C1987,Canberra,P390
+C1988,Adelaide,P151
+C1989,Burpengary,P978
+C1990,Seymour,P235
+C1991,Ipswich,P3187
+C1992,Echuca,P2331
+C1993,Kyneton,P3247
+C1994,Toowoomba,P4580
+C1995,Stawell,P2080
+C1996,Yass,P470
+C1997,Yanchep,P3363
+C1998,Brisbane,P553
+C1999,Ipswich,P4384
+C2000,Castlemaine,P2312
+C2001,Inverell,P2726
+C2002,Rutherford,P1431
+C2003,Mount Evelyn,P2527
+C2004,Corinda,P2511
+C2005,Gympie,P1275
+C2006,Bli Bli,P1951
+C2007,Corinda,P4234
+C2008,Young,P3812
+C2009,Perth,P4406
+C2010,Mooroopna,P231
+C2011,Horsham,P2304
+C2012,Swan Hill,P2077
+C2013,Rutherford,P3134
+C2014,Fremantle,P1602
+C2015,Healesville,P3991
+C2016,Bomaderry,P758
+C2017,Leongatha,P4310
+C2018,Cootamundra,P1852
+C2019,Perth,P2055
+C2020,Sydney,P1968
+C2021,Seymour,P731
+C2022,Maryborough,P1038
+C2023,Adelaide,P1194
+C2024,Melbourne,P3651
+C2025,Mareeba,P3736
+C2026,Alstonville,P3166
+C2027,Bli Bli,P111
+C2028,Wauchope,P2434
+C2029,Port Augusta,P3153
+C2030,Adelaide,P3408
+C2031,Mackay,P2633
+C2032,Point Vernon,P1741
+C2033,Deniliquin,P3005
+C2034,Lakes Entrance,P2653
+C2035,Fremantle,P264
+C2036,Yanchep,P2412
+C2037,Casino,P3331
+C2038,Yass,P3031
+C2039,Andergrove,P199
+C2040,Campbelltown,P4174
+C2041,Bli Bli,P3336
+C2042,Ballina,P1381
+C2043,Merrimac,P465
+C2044,Merrimac,P2171
+C2045,Canberra,P57
+C2046,Young,P1875
+C2047,Castlemaine,P3800
+C2048,Whittlesea,P2824
+C2049,Brisbane,P3151
+C2050,Morwell,P4061
+C2051,Townsville,P4326
+C2052,Yamba,P4019
+C2053,Charters Towers,P860
+C2054,Deniliquin,P250
+C2055,Narrabri,P4474
+C2056,Horsham,P2487
+C2057,Hobart,P90
+C2058,Wynyard,P1999
+C2059,Katoomba,P2149
+C2060,Leopold,P154
+C2061,Wauchope,P911
+C2062,Mareeba,P4289
+C2063,Lakes Entrance,P473
+C2064,Adelaide,P3324
+C2065,Hobart,P3807
+C2066,Adelaide,P2706
+C2067,Melbourne,P1371
+C2068,Kingston,P3320
+C2069,Perth,P1898
+C2070,Toowoomba,P3990
+C2071,Canberra,P4431
+C2072,Moree,P4569
+C2073,Grafton,P1540
+C2074,Sydney,P14
+C2075,Narrabri,P2178
+C2076,Adelaide,P4608
+C2077,Fremantle,P3693
+C2078,Adelaide,P1739
+C2079,Melbourne,P644
+C2080,Adelaide,P4458
+C2081,Inverell,P2524
+C2082,Grafton,P3837
+C2083,Point Vernon,P138
+C2084,Swan Hill,P1139
+C2085,Springwood,P1514
+C2086,Ballina,P2247
+C2087,Cowra,P3341
+C2088,Merrimac,P3529
+C2089,Cootamundra,P1005
+C2090,Bli Bli,P1099
+C2091,Mudgee,P2724
+C2092,Mudgee,P2073
+C2093,Wallan,P4350
+C2094,Brisbane,P1437
+C2095,Melbourne,P3358
+C2096,Narrabri,P975
+C2097,Glen Innes,P232
+C2098,Seymour,P940
+C2099,Melbourne,P2307
+C2100,Kyneton,P689
+C2101,Glen Innes,P3310
+C2102,Forster,P1195
+C2103,Young,P2035
+C2104,Healesville,P1397
+C2105,Ballina,P3835
+C2106,Brisbane,P1342
+C2107,Melbourne,P2225
+C2108,Nambour,P2336
+C2109,Leeton,P277
+C2110,Cootamundra,P510
+C2111,Hobart,P46
+C2112,Murwillumbah,P1256
+C2113,Bongaree,P3849
+C2114,Kyneton,P541
+C2115,Rutherford,P2778
+C2116,Morwell,P3968
+C2117,Charters Towers,P1624
+C2118,Inverell,P381
+C2119,Melbourne,P3804
+C2120,Wynyard,P1436
+C2121,Geelong,P4140
+C2122,Castlemaine,P303
+C2123,Perth,P3706
+C2124,Kurri Kurri,P3617
+C2125,Forster,P881
+C2126,Perth,P504
+C2127,Wallan,P3685
+C2128,Helensburgh,P2221
+C2129,Wauchope,P4623
+C2130,Waterford,P4201
+C2131,Adelaide,P3548
+C2132,Alstonville,P3449
+C2133,Waterford,P4382
+C2134,Central Coast,P4462
+C2135,Melbourne,P3623
+C2136,Waterford,P3280
+C2137,Seymour,P2427
+C2138,Brisbane,P4562
+C2139,Wauchope,P1678
+C2140,Nowra,P1174
+C2141,North Mackay,P1715
+C2142,Hobart,P2753
+C2143,Cowra,P3832
+C2144,Katoomba,P1581
+C2145,Glen Innes,P1703
+C2146,Cannonvale,P1900
+C2147,Mittagong,P3576
+C2148,Mooroopna,P2630
+C2149,Brisbane,P4013
+C2150,Corowa,P378
+C2151,Toowoomba,P641
+C2152,Waterford,P3482
+C2153,Wauchope,P1248
+C2154,Bendigo,P1809
+C2155,Kingscliff,P3869
+C2156,Hobart,P824
+C2157,Leopold,P4477
+C2158,Adelaide,P3521
+C2159,Bowral,P3802
+C2160,Rutherford,P2162
+C2161,Kyneton,P2960
+C2162,Kingscliff,P4223
+C2163,Brisbane,P4501
+C2164,Ballarat,P4176
+C2165,Leeton,P4218
+C2166,Sydney,P2354
+C2167,Cranbourne,P1053
+C2168,Adelaide,P830
+C2169,Melbourne,P2146
+C2170,Castlemaine,P4294
+C2171,Canberra,P1601
+C2172,Adelaide,P4138
+C2173,Wauchope,P3435
+C2174,Lennox Head,P1803
+C2175,Inverell,P2500
+C2176,Sydney,P4529
+C2177,Rutherford,P1680
+C2178,Townsville,P1320
+C2179,Brisbane,P4145
+C2180,Bowral,P3121
+C2181,Nuriootpa,P425
+C2182,Dromana,P1727
+C2183,Lakes Entrance,P3553
+C2184,Sydney,P3018
+C2185,Ararat,P841
+C2186,Brisbane,P966
+C2187,Katoomba,P2911
+C2188,Yamba,P2702
+C2189,Young,P2816
+C2190,Perth,P4428
+C2191,Clifton Springs,P2955
+C2192,Seymour,P3593
+C2193,Muswellbrook,P1077
+C2194,Brisbane,P3942
+C2195,Hobart,P3171
+C2196,Goonellabah,P843
+C2197,North Mackay,P3625
+C2198,Stawell,P4568
+C2199,Melbourne,P155
+C2200,Moss Vale,P2965
+C2201,Mooroopna,P2058
+C2202,North Mackay,P683
+C2203,Wallan,P1130
+C2204,Melbourne,P319
+C2205,Canberra,P4531
+C2206,Casino,P1192
+C2207,Wallan,P1260
+C2208,Adelaide,P752
+C2209,Adelaide,P4466
+C2210,Nambour,P1981
+C2211,Stawell,P3289
+C2212,Andergrove,P1948
+C2213,Whittlesea,P2813
+C2214,Emu Plains,P4301
+C2215,Gold Coast,P1964
+C2216,Ballina,P4469
+C2217,Mount Evelyn,P4335
+C2218,Young,P1457
+C2219,Port Augusta,P1433
+C2220,Bongaree,P4200
+C2221,Mandurah,P750
+C2222,Yanchep,P3198
+C2223,Mackay,P4076
+C2224,Brisbane,P335
+C2225,Gold Coast,P801
+C2226,Canberra,P1902
+C2227,Goonellabah,P1932
+C2228,Young,P4551
+C2229,Adelaide,P1400
+C2230,Hobart,P831
+C2231,Bomaderry,P4563
+C2232,Newcastle,P1549
+C2233,Cootamundra,P3164
+C2234,Lennox Head,P2645
+C2235,Katoomba,P2655
+C2236,Wauchope,P316
+C2237,Rutherford,P3976
+C2238,Brisbane,P2717
+C2239,Wynyard,P1789
+C2240,Moss Vale,P836
+C2241,Blaxland,P2773
+C2242,Castlemaine,P3297
+C2243,Brisbane,P3205
+C2244,Corowa,P2761
+C2245,Glen Innes,P2218
+C2246,Nuriootpa,P4534
+C2247,Moss Vale,P877
+C2248,Darwin,P1015
+C2249,Goonellabah,P4442
+C2250,Cannonvale,P1879
+C2251,Burpengary,P3938
+C2252,Narrabri,P612
+C2253,Cairns,P4186
+C2254,Hobart,P1508
+C2255,Charters Towers,P4226
+C2256,Sanctuary Point,P1388
+C2257,Nowra,P1086
+C2258,Hobart,P709
+C2259,Hobart,P83
+C2260,Ballina,P2168
+C2261,Tuncurry,P311
+C2262,Moree,P2395
+C2263,Seymour,P172
+C2264,Newcastle,P1272
+C2265,Nowra,P1521
+C2266,Canberra,P4447
+C2267,Tweed Heads,P2784
+C2268,Bli Bli,P4336
+C2269,Urraween,P4302
+C2270,Cairns,P531
+C2271,Grafton,P1788
+C2272,Gympie,P806
+C2273,Toowoomba,P150
+C2274,Young,P2680
+C2275,Bli Bli,P3286
+C2276,Healesville,P1173
+C2277,Kingston,P1814
+C2278,Brisbane,P1990
+C2279,Mount Barker,P1024
+C2280,Bli Bli,P1535
+C2281,Brisbane,P240
+C2282,Perth,P3953
+C2283,Mount Barker,P4206
+C2284,Bli Bli,P2391
+C2285,Swan Hill,P4508
+C2286,Helensburgh,P2810
+C2287,Mudgee,P3957
+C2288,Forster,P1246
+C2289,Mackay,P1143
+C2290,Stawell,P3749
+C2291,Gold Coast,P492
+C2292,Perth,P3172
+C2293,Burpengary,P1625
+C2294,Cairns,P291
+C2295,Blaxland,P2349
+C2296,Moss Vale,P1536
+C2297,Wauchope,P2521
+C2298,Adelaide,P1706
+C2299,Wauchope,P2367
+C2300,Inverell,P2873
+C2301,Port Augusta,P2791
+C2302,Lennox Head,P2690
+C2303,Rutherford,P498
+C2304,Brisbane,P1208
+C2305,Tumut,P44
+C2306,Cranbourne,P904
+C2307,Kingston,P529
+C2308,Adelaide,P811
+C2309,Alstonville,P2779
+C2310,Deniliquin,P3892
+C2311,Melbourne,P3824
+C2312,Blaxland,P885
+C2313,Katoomba,P1847
+C2314,Mackay,P132
+C2315,Sydney,P3356
+C2316,North Mackay,P3912
+C2317,Lennox Head,P717
+C2318,Newcastle,P2825
+C2319,Whittlesea,P733
+C2320,Strathalbyn,P3655
+C2321,Perth,P4453
+C2322,Yanchep,P4022
+C2323,Wollongong,P1914
+C2324,Gympie,P2206
+C2325,Colac,P3370
+C2326,Barwon Heads,P4208
+C2327,Goonellabah,P322
+C2328,Casino,P2123
+C2329,Whittlesea,P343
+C2330,Leopold,P995
+C2331,Hobart,P4592
+C2332,Bomaderry,P817
+C2333,Deniliquin,P2518
+C2334,Adelaide,P3930
+C2335,Brisbane,P4033
+C2336,Sydney,P1690
+C2337,Leopold,P2907
+C2338,Healesville,P1562
+C2339,Gympie,P4073
+C2340,Cannonvale,P1623
+C2341,Deniliquin,P452
+C2342,Melbourne,P2925
+C2343,Ballina,P977
+C2344,Kyabram,P3778
+C2345,Burpengary,P1675
+C2346,Brisbane,P1582
+C2347,Central Coast,P4588
+C2348,Lakes Entrance,P1910
+C2349,Cairns,P4459
+C2350,Campbelltown,P3234
+C2351,Port Augusta,P1060
+C2352,Wallan,P4233
+C2353,Deniliquin,P4220
+C2354,Kurri Kurri,P608
+C2355,Forster,P3620
+C2356,Murwillumbah,P1218
+C2357,Ipswich,P2044
+C2358,Sydney,P2471
+C2359,Mandurah,P1226
+C2360,Maryborough,P1796
+C2361,Launceston,P3278
+C2362,Lennox Head,P3954
+C2363,Waterford,P4067
+C2364,Urraween,P4328
+C2365,Wollongong,P398
+C2366,Brisbane,P1072
+C2367,Moree,P2076
+C2368,Seymour,P1140
+C2369,North Mackay,P2647
+C2370,Cowra,P578
+C2371,Lennox Head,P4188
+C2372,Sydney,P1141
+C2373,Leongatha,P2163
+C2374,Kyabram,P1575
+C2375,Deniliquin,P3619
+C2376,Melbourne,P876
+C2377,Wagga Wagga,P1530
+C2378,Corinda,P1824
+C2379,Kingston,P592
+C2380,Moss Vale,P3008
+C2381,Gold Coast,P3998
+C2382,Murwillumbah,P330
+C2383,Cannonvale,P603
+C2384,Bendigo,P1984
+C2385,Perth,P3937
+C2386,Mooroopna,P1075
+C2387,Healesville,P2850
+C2388,Australind,P3883
+C2389,Perth,P2068
+C2390,Adelaide,P3887
+C2391,Glen Innes,P4395
+C2392,Ballarat,P2258
+C2393,Canberra,P1817
+C2394,Sydney,P4159
+C2395,Rutherford,P2641
+C2396,Barwon Heads,P2387
+C2397,Sydney,P3157
+C2398,Fremantle,P3792
+C2399,Wollongong,P1057
+C2400,Moss Vale,P1808
+C2401,Hobart,P1800
+C2402,Andergrove,P1119
+C2403,Hobart,P4100
+C2404,Perth,P821
+C2405,Sydney,P3366
+C2406,Central Coast,P887
+C2407,Canberra,P851
+C2408,Swan Hill,P3233
+C2409,Muswellbrook,P2069
+C2410,Echuca,P656
+C2411,Murwillumbah,P2708
+C2412,Hobart,P317
+C2413,Gympie,P3767
+C2414,Nowra,P2977
+C2415,Darwin,P4599
+C2416,Adelaide,P515
+C2417,Hobart,P4493
+C2418,Alstonville,P2362
+C2419,Parkes,P3803
+C2420,Ulverstone,P3403
+C2421,Ipswich,P4423
+C2422,Adelaide,P1328
+C2423,Nambour,P3848
+C2424,Nowra,P1959
+C2425,Melbourne,P4028
+C2426,Mittagong,P894
+C2427,Wollongong,P1945
+C2428,Kyneton,P1617
+C2429,Kyneton,P791
+C2430,Sydney,P2944
+C2431,Maryborough,P3292
+C2432,Mittagong,P2670
+C2433,Yamba,P3304
+C2434,Deniliquin,P4083
+C2435,Parkes,P1897
+C2436,Brisbane,P3751
+C2437,Nowra,P2970
+C2438,Moree,P696
+C2439,Central Coast,P2714
+C2440,Sydney,P2197
+C2441,Brisbane,P4339
+C2442,Port Augusta,P3865
+C2443,Helensburgh,P4024
+C2444,Adelaide,P4273
+C2445,Mandurah,P3980
+C2446,Maryborough,P4504
+C2447,Strathalbyn,P193
+C2448,Mandurah,P568
+C2449,Alstonville,P254
+C2450,Perth,P2241
+C2451,Wauchope,P2685
+C2452,Colac,P3191
+C2453,Ballina,P2740
+C2454,Healesville,P1622
+C2455,Melbourne,P4148
+C2456,Canberra,P4231
+C2457,Brisbane,P1546
+C2458,Mareeba,P2929
+C2459,Melbourne,P430
+C2460,Cootamundra,P927
+C2461,Alstonville,P2806
+C2462,Tweed Heads,P613
+C2463,Stawell,P2834
+C2464,Melbourne,P4205
+C2465,Nambucca Heads,P1416
+C2466,Brisbane,P4288
+C2467,Dromana,P712
+C2468,Springwood,P1343
+C2469,Nambour,P29
+C2470,Castlemaine,P3560
+C2471,Deniliquin,P2428
+C2472,Bongaree,P2772
+C2473,Sydney,P201
+C2474,Mudgee,P1572
+C2475,Helensburgh,P1929
+C2476,Perth,P417
+C2477,Campbelltown,P4311
+C2478,Leeton,P3299
+C2479,Campbelltown,P2409
+C2480,Launceston,P3051
+C2481,Kingston,P2287
+C2482,Barwon Heads,P1135
+C2483,Lennox Head,P278
+C2484,Moree,P4353
+C2485,Murwillumbah,P2501
+C2486,Moss Vale,P1014
+C2487,Swan Hill,P179
+C2488,Tweed Heads,P879
+C2489,Castlemaine,P2338
+C2490,Yamba,P589
+C2491,Merrimac,P2677
+C2492,Narrabri,P1468
+C2493,Campbelltown,P4182
+C2494,Ararat,P1312
+C2495,Emu Plains,P4229
+C2496,Bowral,P11
+C2497,Emu Plains,P1103
+C2498,Seymour,P3394
+C2499,Leongatha,P4473
+C2500,Nuriootpa,P780
+C2501,Leongatha,P552
+C2502,Bargara,P3212
+C2503,Mudgee,P3252
+C2504,Gold Coast,P3941
+C2505,Mudgee,P3088
+C2506,Canberra,P2250
+C2507,Fremantle,P2393
+C2508,Maryborough,P4267
+C2509,Morwell,P3649
+C2510,Wagga Wagga,P4444
+C2511,Canberra,P3960
+C2512,Wollongong,P2595
+C2513,Mareeba,P2442
+C2514,Melbourne,P3148
+C2515,Ararat,P3640
+C2516,Healesville,P4136
+C2517,Mount Barker,P2373
+C2518,Nambour,P1998
+C2519,Morwell,P1773
+C2520,Sydney,P4066
+C2521,Bendigo,P3757
+C2522,Cairns,P2801
+C2523,Perth,P1757
+C2524,Lakes Entrance,P2423
+C2525,Blaxland,P3647
+C2526,Inverell,P3884
+C2527,Bargara,P4542
+C2528,Scone,P404
+C2529,Castlemaine,P285
+C2530,Canberra,P1924
+C2531,Tuncurry,P3035
+C2532,Ballina,P2611
+C2533,Colac,P3469
+C2534,Mooroopna,P117
+C2535,Dromana,P2782
+C2536,Port Augusta,P2417
+C2537,Yamba,P3826
+C2538,Kingscliff,P3913
+C2539,Wagga Wagga,P2722
+C2540,Morwell,P356
+C2541,Kingscliff,P769
+C2542,Parkes,P2930
+C2543,Nowra,P2758
+C2544,Brisbane,P1585
+C2545,Melbourne,P1554
+C2546,Glen Innes,P2037
+C2547,Melbourne,P653
+C2548,Murwillumbah,P679
+C2549,Lakes Entrance,P763
+C2550,Waterford,P3628
+C2551,Morwell,P525
+C2552,Wagga Wagga,P4468
+C2553,Cessnock,P1979
+C2554,Grafton,P43
+C2555,Bongaree,P333
+C2556,Melbourne,P382
+C2557,Muswellbrook,P448
+C2558,Leopold,P1122
+C2559,Charters Towers,P3929
+C2560,Melbourne,P4158
+C2561,Melbourne,P2837
+C2562,Tumut,P1380
+C2563,Townsville,P3315
+C2564,Bomaderry,P4355
+C2565,Perth,P4418
+C2566,Strathalbyn,P1267
+C2567,Australind,P3699
+C2568,Wynyard,P1344
+C2569,Melbourne,P1447
+C2570,Campbelltown,P3752
+C2571,Merrimac,P691
+C2572,Mudgee,P1003
+C2573,Geelong,P3066
+C2574,Burpengary,P3951
+C2575,Adelaide,P527
+C2576,Leeton,P418
+C2577,Strathalbyn,P213
+C2578,Burpengary,P2156
+C2579,Cannonvale,P219
+C2580,Kurri Kurri,P3658
+C2581,Melbourne,P1242
+C2582,Gold Coast,P1452
+C2583,Nambour,P4337
+C2584,Sydney,P1383
+C2585,Adelaide,P4313
+C2586,Nambour,P3484
+C2587,Mount Evelyn,P2638
+C2588,Fremantle,P1588
+C2589,Mareeba,P2744
+C2590,Helensburgh,P3573
+C2591,Toowoomba,P1527
+C2592,Muswellbrook,P2380
+C2593,Ballarat,P720
+C2594,Parkes,P3784
+C2595,Moree,P666
+C2596,Gympie,P4090
+C2597,Swan Hill,P4135
+C2598,Young,P4579
+C2599,Cootamundra,P2345
+C2600,Kyabram,P4385
+C2601,Brisbane,P842
+C2602,Nambour,P3583
+C2603,Ballarat,P2356
+C2604,Cessnock,P2066
+C2605,Gold Coast,P3499
+C2606,Australind,P3501
+C2607,Ballarat,P79
+C2608,Melbourne,P1510
+C2609,Muswellbrook,P12
+C2610,Bowral,P3235
+C2611,Alstonville,P1677
+C2612,Strathalbyn,P299
+C2613,Goonellabah,P3178
+C2614,Urraween,P2513
+C2615,Melbourne,P898
+C2616,Emu Plains,P2153
+C2617,Alstonville,P1801
+C2618,Mackay,P4368
+C2619,Melbourne,P1359
+C2620,Cessnock,P3748
+C2621,Kingston,P3441
+C2622,Charters Towers,P1465
+C2623,Adelaide,P2913
+C2624,Springwood,P2703
+C2625,Yanchep,P1954
+C2626,Helensburgh,P3585
+C2627,Urraween,P886
+C2628,Leeton,P4369
+C2629,Cranbourne,P2152
+C2630,Canberra,P1000
+C2631,Mount Evelyn,P2085
+C2632,Brisbane,P2862
+C2633,Castlemaine,P2113
+C2634,Ipswich,P2220
+C2635,Charters Towers,P4093
+C2636,Healesville,P692
+C2637,Ballina,P1676
+C2638,Townsville,P2995
+C2639,Wagga Wagga,P139
+C2640,Sanctuary Point,P1070
+C2641,Mooroopna,P1976
+C2642,Helensburgh,P1319
+C2643,Whittlesea,P710
+C2644,Mandurah,P850
+C2645,Leeton,P3227
+C2646,Kyabram,P3724
+C2647,Ararat,P1445
+C2648,Cannonvale,P2943
+C2649,Horsham,P3022
+C2650,Townsville,P3843
+C2651,Bongaree,P415
+C2652,Wallan,P2222
+C2653,Cranbourne,P1321
+C2654,Swan Hill,P340
+C2655,Hobart,P2371
+C2656,Rutherford,P3890
+C2657,Alstonville,P3926
+C2658,Kingston,P4104
+C2659,Melbourne,P4043
+C2660,Canberra,P2836
+C2661,Yanchep,P532
+C2662,Melbourne,P2003
+C2663,Kingscliff,P234
+C2664,Brisbane,P4221
+C2665,Bongaree,P965
+C2666,Corowa,P4411
+C2667,Sydney,P4349
+C2668,Charters Towers,P3210
+C2669,Colac,P2658
+C2670,Tuncurry,P908
+C2671,Ararat,P1574
+C2672,Kyneton,P2027
+C2673,Narrabri,P2082
+C2674,Narrabri,P754
+C2675,Cannonvale,P3467
+C2676,Morwell,P159
+C2677,Mount Barker,P1336
+C2678,Whittlesea,P3129
+C2679,Hobart,P3245
+C2680,Newcastle,P2844
+C2681,Deniliquin,P799
+C2682,Adelaide,P3089
+C2683,Merrimac,P2142
+C2684,Perth,P3670
+C2685,Katoomba,P3093
+C2686,Inverell,P2047
+C2687,Nowra,P3496
+C2688,Gold Coast,P590
+C2689,Sydney,P2709
+C2690,Brisbane,P1977
+C2691,Townsville,P2532
+C2692,Morwell,P676
+C2693,Mount Evelyn,P3711
+C2694,Horsham,P1776
+C2695,Healesville,P2347
+C2696,Helensburgh,P3091
+C2697,Springwood,P4252
+C2698,Grafton,P2143
+C2699,Australind,P1865
+C2700,Hobart,P2972
+C2701,Emu Plains,P1189
+C2702,Toowoomba,P2529
+C2703,Kurri Kurri,P1050
+C2704,Swan Hill,P835
+C2705,Cannonvale,P1337
+C2706,Perth,P2668
+C2707,Nambour,P2292
+C2708,Sydney,P1304
+C2709,Corowa,P2205
+C2710,Wagga Wagga,P736
+C2711,Mackay,P1079
+C2712,Bli Bli,P4009
+C2713,Ballina,P4011
+C2714,Perth,P4455
+C2715,Alstonville,P4505
+C2716,Nambour,P2975
+C2717,Adelaide,P1237
+C2718,Adelaide,P1409
+C2719,Bli Bli,P3973
+C2720,Blaxland,P3180
+C2721,Alstonville,P4478
+C2722,Sydney,P1528
+C2723,Casino,P4034
+C2724,Perth,P3014
+C2725,Canberra,P4097
+C2726,Deniliquin,P1792
+C2727,Rutherford,P2121
+C2728,Muswellbrook,P1689
+C2729,Kingston,P557
+C2730,Narrabri,P3627
+C2731,Melbourne,P334
+C2732,Hobart,P2239
+C2733,Brisbane,P771
+C2734,Adelaide,P2089
+C2735,Adelaide,P3844
+C2736,Charters Towers,P2993
+C2737,Mooroopna,P3473
+C2738,Bendigo,P3584
+C2739,Canberra,P526
+C2740,Perth,P3050
+C2741,Wagga Wagga,P2765
+C2742,Bargara,P2946
+C2743,Hobart,P2348
+C2744,Healesville,P185
+C2745,Hobart,P296
+C2746,Blaxland,P1081
+C2747,Corowa,P1316
+C2748,Wagga Wagga,P2895
+C2749,Sydney,P1123
+C2750,Darwin,P4361
+C2751,Melbourne,P2256
+C2752,Yass,P4224
+C2753,Geelong,P2609
+C2754,Hobart,P2750
+C2755,Kyneton,P859
+C2756,Burpengary,P1894
+C2757,North Mackay,P1604
+C2758,Young,P1532
+C2759,Mooroopna,P3983
+C2760,Andergrove,P386
+C2761,Urraween,P907
+C2762,Canberra,P268
+C2763,Mittagong,P266
+C2764,Castlemaine,P1597
+C2765,Goonellabah,P2689
+C2766,Lennox Head,P1290
+C2767,Hobart,P3115
+C2768,Brisbane,P2878
+C2769,Yass,P923
+C2770,Adelaide,P1207
+C2771,Tumut,P1258
+C2772,Helensburgh,P3850
+C2773,Mareeba,P1686
+C2774,Lakes Entrance,P3720
+C2775,Moss Vale,P2835
+C2776,Moss Vale,P2183
+C2777,Corowa,P1975
+C2778,Muswellbrook,P2039
+C2779,Urraween,P2224
+C2780,Tumut,P3774
+C2781,Port Augusta,P4470
+C2782,Yanchep,P4081
+C2783,Ballarat,P2325
+C2784,Canberra,P822
+C2785,Wallan,P567
+C2786,Goonellabah,P3119
+C2787,Melbourne,P1200
+C2788,Geelong,P4152
+C2789,Mareeba,P145
+C2790,Ulverstone,P2978
+C2791,Campbelltown,P3232
+C2792,Cessnock,P2139
+C2793,Strathalbyn,P1571
+C2794,Campbelltown,P3081
+C2795,Melbourne,P4276
+C2796,Dromana,P4
+C2797,Ararat,P620
+C2798,Canberra,P2119
+C2799,Healesville,P1133
+C2800,Whittlesea,P4150
+C2801,Katoomba,P249
+C2802,Maryborough,P3961
+C2803,Campbelltown,P4243
+C2804,Wauchope,P2579
+C2805,Bomaderry,P981
+C2806,Cannonvale,P3012
+C2807,Burpengary,P4248
+C2808,Melbourne,P3714
+C2809,Nuriootpa,P1682
+C2810,Nowra,P4005
+C2811,Inverell,P485
+C2812,Springwood,P258
+C2813,Springwood,P3461
+C2814,Ballina,P1083
+C2815,Tuncurry,P2282
+C2816,Tuncurry,P4319
+C2817,Waterford,P3936
+C2818,Grafton,P3246
+C2819,Cessnock,P4120
+C2820,Charters Towers,P3841
+C2821,Wagga Wagga,P2552
+C2822,Australind,P3984
+C2823,Cessnock,P1713
+C2824,Mount Barker,P3305
+C2825,Inverell,P3430
+C2826,Point Vernon,P366
+C2827,Canberra,P3228
+C2828,Wauchope,P4484
+C2829,Parkes,P1912
+C2830,Waterford,P1720
+C2831,Muswellbrook,P3586
+C2832,Perth,P3003
+C2833,Nambucca Heads,P2433
+C2834,Merrimac,P2555
+C2835,Canberra,P3442
+C2836,Casino,P1378
+C2837,Bowral,P1590
+C2838,Clifton Springs,P4309
+C2839,Melbourne,P1422
+C2840,Alstonville,P2201
+C2841,Tuncurry,P4240
+C2842,Katoomba,P546
+C2843,Waterford,P4287
+C2844,Burpengary,P4192
+C2845,Point Vernon,P1870
+C2846,Adelaide,P1250
+C2847,Urraween,P2957
+C2848,Moree,P126
+C2849,Point Vernon,P2353
+C2850,Hobart,P1219
+C2851,Perth,P3874
+C2852,Alstonville,P2755
+C2853,Ballina,P1778
+C2854,Nambour,P3596
+C2855,Moree,P3959
+C2856,Adelaide,P1303
+C2857,Cootamundra,P3966
+C2858,Yamba,P3302
+C2859,Yamba,P3538
+C2860,Helensburgh,P1357
+C2861,Alstonville,P598
+C2862,Katoomba,P582
+C2863,Andergrove,P1855
+C2864,Nambour,P3570
+C2865,Gold Coast,P4324
+C2866,Port Augusta,P1278
+C2867,Fremantle,P3216
+C2868,Moss Vale,P4114
+C2869,Melbourne,P1729
+C2870,Gympie,P1230
+C2871,Melbourne,P350
+C2872,Seymour,P655
+C2873,Wauchope,P2961
+C2874,North Mackay,P524
+C2875,Tuncurry,P3454
+C2876,Muswellbrook,P4494
+C2877,Tuncurry,P1430
+C2878,Murwillumbah,P48
+C2879,Colac,P1851
+C2880,Nuriootpa,P4132
+C2881,Melbourne,P3470
+C2882,Central Coast,P3864
+C2883,Sydney,P1363
+C2884,Adelaide,P832
+C2885,Port Augusta,P1504
+C2886,Mudgee,P27
+C2887,Nambour,P380
+C2888,Canberra,P804
+C2889,Colac,P1403
+C2890,Gold Coast,P1023
+C2891,Sydney,P2900
+C2892,Moss Vale,P2002
+C2893,Adelaide,P2466
+C2894,Sydney,P743
+C2895,Darwin,P367
+C2896,Katoomba,P631
+C2897,Moss Vale,P960
+C2898,Yanchep,P41
+C2899,Melbourne,P1127
+C2900,Tweed Heads,P3535
+C2901,Townsville,P4402
+C2902,Alstonville,P206
+C2903,Mittagong,P518
+C2904,Nuriootpa,P2656
+C2905,Wallan,P2949
+C2906,Moree,P2743
+C2907,Wagga Wagga,P669
+C2908,Yamba,P970
+C2909,Adelaide,P4010
+C2910,Melbourne,P722
+C2911,Bli Bli,P3755
+C2912,Bendigo,P3208
+C2913,Casino,P3071
+C2914,Ballina,P1271
+C2915,Ballina,P2174
+C2916,Castlemaine,P3404
+C2917,Urraween,P1672
+C2918,Tuncurry,P3872
+C2919,Bendigo,P4099
+C2920,Brisbane,P3386
+C2921,Perth,P2323
+C2922,Mount Evelyn,P764
+C2923,Kurri Kurri,P1198
+C2924,Clifton Springs,P2481
+C2925,Cootamundra,P2983
+C2926,Bargara,P1663
+C2927,Maryborough,P20
+C2928,Katoomba,P4546
+C2929,Hobart,P2268
+C2930,Adelaide,P4163
+C2931,Merrimac,P1142
+C2932,Leopold,P1279
+C2933,Hobart,P3607
+C2934,Nowra,P4461
+C2935,Narrabri,P1145
+C2936,Lennox Head,P1120
+C2937,Ballarat,P2973
+C2938,Canberra,P2661
+C2939,Wynyard,P4270
+C2940,Blaxland,P4207
+C2941,Mittagong,P2505
+C2942,Cootamundra,P1806
+C2943,Deniliquin,P2458
+C2944,Tumut,P1730
+C2945,Barwon Heads,P2865
+C2946,Mandurah,P2787
+C2947,Murwillumbah,P1284
+C2948,Casino,P1049
+C2949,Casino,P1338
+C2950,Launceston,P700
+C2951,Sydney,P1553
+C2952,Inverell,P3822
+C2953,Barwon Heads,P3819
+C2954,Lennox Head,P2062
+C2955,Springwood,P2707
+C2956,Cootamundra,P1082
+C2957,Maryborough,P1110
+C2958,Gympie,P4454
+C2959,Charters Towers,P635
+C2960,Bendigo,P88
+C2961,Narrabri,P732
+C2962,Bendigo,P654
+C2963,Grafton,P2766
+C2964,Mooroopna,P1376
+C2965,Tuncurry,P4190
+C2966,Urraween,P726
+C2967,Moss Vale,P2294
+C2968,Burpengary,P3777
+C2969,Blaxland,P2757
+C2970,Ipswich,P1734
+C2971,Parkes,P3678
+C2972,Sydney,P2735
+C2973,Rutherford,P698
+C2974,Narrabri,P1798
+C2975,Charters Towers,P2906
+C2976,North Mackay,P1758
+C2977,Bowral,P4515
+C2978,Cranbourne,P469
+C2979,Adelaide,P2620
+C2980,Morwell,P929
+C2981,Healesville,P3431
+C2982,Mooroopna,P410
+C2983,Sydney,P1791
+C2984,Merrimac,P25
+C2985,Cranbourne,P2858
+C2986,Hobart,P550
+C2987,Bli Bli,P1460
+C2988,Moree,P2657
+C2989,Inverell,P545
+C2990,Mackay,P3676
+C2991,Yanchep,P289
+C2992,Bli Bli,P439
+C2993,Bongaree,P423
+C2994,Leongatha,P503
+C2995,Young,P18
+C2996,Tweed Heads,P3718
+C2997,Brisbane,P2546
+C2998,Ulverstone,P1755
+C2999,Mittagong,P4015
+C3000,Bongaree,P3695
+C3001,Adelaide,P433
+C3002,Inverell,P1936
+C3003,Leopold,P4300
+C3004,Cairns,P369
+C3005,Mittagong,P3636
+C3006,Cranbourne,P1100
+C3007,Perth,P2275
+C3008,Brisbane,P1538
+C3009,Horsham,P2248
+C3010,Stawell,P3689
+C3011,Horsham,P1524
+C3012,Ararat,P1392
+C3013,Tuncurry,P230
+C3014,Sydney,P1641
+C3015,Leongatha,P2734
+C3016,Clifton Springs,P1769
+C3017,Brisbane,P1630
+C3018,Mount Barker,P2271
+C3019,Launceston,P3517
+C3020,Parkes,P310
+C3021,Parkes,P1969
+C3022,Stawell,P2789
+C3023,Wagga Wagga,P2566
+C3024,Central Coast,P2918
+C3025,Inverell,P2343
+C3026,Urraween,P3281
+C3027,Geelong,P4378
+C3028,Clifton Springs,P3256
+C3029,Geelong,P810
+C3030,Mooroopna,P178
+C3031,Brisbane,P3600
+C3032,Canberra,P2695
+C3033,Hobart,P3423
+C3034,Gold Coast,P2276
+C3035,Wagga Wagga,P2623
+C3036,Toowoomba,P3244
+C3037,Geelong,P856
+C3038,Alstonville,P2193
+C3039,Andergrove,P2821
+C3040,Australind,P3654
+C3041,Adelaide,P2804
+C3042,Bowral,P3875
+C3043,Corowa,P3249
+C3044,Brisbane,P3810
+C3045,Helensburgh,P1107
+C3046,Wollongong,P2586
+C3047,Nambour,P4344
+C3048,Scone,P436
+C3049,Andergrove,P1283
+C3050,Geelong,P3108
+C3051,Yass,P276
+C3052,Ballina,P3332
+C3053,Katoomba,P31
+C3054,Fremantle,P4131
+C3055,Narrabri,P4522
+C3056,Andergrove,P777
+C3057,Andergrove,P4334
+C3058,Toowoomba,P2267
+C3059,Leeton,P2404
+C3060,Maryborough,P2351
+C3061,Leeton,P2636
+C3062,Clifton Springs,P4471
+C3063,Nuriootpa,P3039
+C3064,Bargara,P1323
+C3065,Cairns,P3514
+C3066,North Mackay,P2365
+C3067,Adelaide,P1349
+C3068,Wollongong,P4141
+C3069,Scone,P3458
+C3070,Wollongong,P985
+C3071,Canberra,P141
+C3072,Seymour,P1396
+C3073,Lakes Entrance,P3668
+C3074,Ballarat,P1551
+C3075,Yanchep,P2811
+C3076,Yamba,P1655
+C3077,Wallan,P3140
+C3078,Dromana,P292
+C3079,Clifton Springs,P2272
+C3080,Gympie,P3681
+C3081,Sydney,P4425
+C3082,Stawell,P4511
+C3083,Sydney,P387
+C3084,Perth,P753
+C3085,Wagga Wagga,P1169
+C3086,Melbourne,P2028
+C3087,Brisbane,P601
+C3088,Canberra,P1432
+C3089,Young,P2822
+C3090,Forster,P4414
+C3091,Melbourne,P216
+C3092,Scone,P16
+C3093,Seymour,P651
+C3094,Alstonville,P1661
+C3095,Leongatha,P4457
+C3096,Moree,P673
+C3097,Wagga Wagga,P4533
+C3098,Nambour,P3021
+C3099,Perth,P3248
+C3100,Canberra,P3162
+C3101,Cairns,P2662
+C3102,Corinda,P4242
+C3103,Casino,P3348
+C3104,Springwood,P1314
+C3105,Forster,P3948
+C3106,Mittagong,P4524
+C3107,Mudgee,P794
+C3108,Corinda,P4545
+C3109,Scone,P2138
+C3110,Bongaree,P1780
+C3111,Merrimac,P3076
+C3112,Mareeba,P1907
+C3113,Gold Coast,P3594
+C3114,Leopold,P1
+C3115,Port Augusta,P1118
+C3116,Mittagong,P2845
+C3117,Stawell,P2324
+C3118,Perth,P3939
+C3119,Perth,P1653
+C3120,Hobart,P3365
+C3121,Sydney,P2610
+C3122,Campbelltown,P2861
+C3123,Brisbane,P588
+C3124,Tuncurry,P2793
+C3125,Moss Vale,P4139
+C3126,Seymour,P3577
+C3127,Parkes,P3652
+C3128,Mandurah,P1109
+C3129,Echuca,P3391
+C3130,Corinda,P256
+C3131,Brisbane,P2041
+C3132,Young,P4053
+C3133,Kyabram,P2060
+C3134,Morwell,P915
+C3135,Mount Barker,P3450
+C3136,Ararat,P4162
+C3137,Perth,P4110
+C3138,Morwell,P4426
+C3139,Alstonville,P1593
+C3140,Adelaide,P1441
+C3141,Fremantle,P4089
+C3142,Australind,P4485
+C3143,Mooroopna,P4277
+C3144,Horsham,P1042
+C3145,Moss Vale,P22
+C3146,Port Augusta,P3177
+C3147,Mudgee,P1966
+C3148,Brisbane,P1427
+C3149,Kingscliff,P3728
+C3150,Point Vernon,P1782
+C3151,Mareeba,P672
+C3152,Seymour,P972
+C3153,Sydney,P3074
+C3154,Kyabram,P1155
+C3155,Toowoomba,P1844
+C3156,Wallan,P1823
+C3157,Ipswich,P2785
+C3158,Leopold,P1408
+C3159,Sydney,P1525
+C3160,Ballina,P2899
+C3161,Tweed Heads,P161
+C3162,Muswellbrook,P401
+C3163,Cessnock,P3703
+C3164,Sanctuary Point,P4118
+C3165,Echuca,P2967
+C3166,Melbourne,P2572
+C3167,Hobart,P4189
+C3168,Swan Hill,P2748
+C3169,Campbelltown,P2176
+C3170,Wauchope,P497
+C3171,Melbourne,P3867
+C3172,Nambour,P837
+C3173,Mooroopna,P2535
+C3174,Cootamundra,P2673
+C3175,Fremantle,P637
+C3176,Parkes,P4177
+C3177,Whittlesea,P449
+C3178,Darwin,P2807
+C3179,Corinda,P2231
+C3180,Melbourne,P3352
+C3181,Yanchep,P4000
+C3182,Hobart,P3877
+C3183,Cranbourne,P2441
+C3184,Waterford,P670
+C3185,Wagga Wagga,P3531
+C3186,Mount Barker,P3511
+C3187,Bargara,P438
+C3188,Canberra,P4291
+C3189,Leongatha,P941
+C3190,Wauchope,P2738
+C3191,Lakes Entrance,P4613
+C3192,Inverell,P2672
+C3193,Perth,P4452
+C3194,Bowral,P3120
+C3195,Leongatha,P1679
+C3196,Adelaide,P1262
+C3197,Nambucca Heads,P4560
+C3198,Melbourne,P3545
+C3199,Ballina,P3113
+C3200,Healesville,P3613
+C3201,Hobart,P1096
+C3202,Yanchep,P3466
+C3203,Hobart,P4075
+C3204,Kingston,P1206
+C3205,Tweed Heads,P549
+C3206,Young,P2987
+C3207,Ulverstone,P685
+C3208,Inverell,P2864
+C3209,Young,P2095
+C3210,Mount Barker,P1611
+C3211,Gold Coast,P112
+C3212,Wallan,P4239
+C3213,Melbourne,P184
+C3214,Sydney,P2382
+C3215,Morwell,P4023
+C3216,Swan Hill,P1373
+C3217,Lennox Head,P4399
+C3218,Adelaide,P3870
+C3219,Nuriootpa,P2877
+C3220,Goonellabah,P3109
+C3221,Inverell,P1704
+C3222,Scone,P3845
+C3223,Bli Bli,P3574
+C3224,Perth,P28
+C3225,Springwood,P1157
+C3226,Sydney,P3060
+C3227,Bli Bli,P3565
+C3228,Bli Bli,P2588
+C3229,Hobart,P2589
+C3230,Murwillumbah,P3277
+C3231,Wollongong,P1225
+C3232,Brisbane,P2394
+C3233,Port Augusta,P3608
+C3234,Katoomba,P1052
+C3235,Moree,P2372
+C3236,Charters Towers,P8
+C3237,Melbourne,P734
+C3238,Helensburgh,P2202
+C3239,Lakes Entrance,P493
+C3240,Perth,P3268
+C3241,Clifton Springs,P1764
+C3242,Cessnock,P2768
+C3243,Hobart,P2719
+C3244,Cannonvale,P3825
+C3245,Kurri Kurri,P1228
+C3246,Andergrove,P4179
+C3247,Horsham,P480
+C3248,Moss Vale,P958
+C3249,Gold Coast,P2711
+C3250,Ulverstone,P818
+C3251,Sydney,P4364
+C3252,Melbourne,P3354
+C3253,Melbourne,P2389
+C3254,Ulverstone,P1568
+C3255,Rutherford,P694
+C3256,Adelaide,P1147
+C3257,Brisbane,P957
+C3258,Gold Coast,P4070
+C3259,Kyneton,P1223
+C3260,Ararat,P1718
+C3261,Perth,P3866
+C3262,Swan Hill,P4103
+C3263,Nuriootpa,P4175
+C3264,Adelaide,P262
+C3265,Parkes,P2472
+C3266,Bongaree,P3914
+C3267,Kingscliff,P2990
+C3268,Hobart,P3873
+C3269,Australind,P3147
+C3270,Mooroopna,P2950
+C3271,Colac,P3851
+C3272,Hobart,P3740
+C3273,Canberra,P314
+C3274,Narrabri,P4059
+C3275,Sydney,P4433
+C3276,Australind,P3379
+C3277,Scone,P3303
+C3278,Wallan,P3007
+C3279,Healesville,P4600
+C3280,Muswellbrook,P2663
+C3281,Cowra,P391
+C3282,Burpengary,P3158
+C3283,Mackay,P1326
+C3284,Grafton,P461
+C3285,Gympie,P3955
+C3286,Whittlesea,P1062
+C3287,Sydney,P2129
+C3288,Colac,P4404
+C3289,Kingscliff,P690
+C3290,Nambour,P3996
+C3291,Grafton,P3309
+C3292,Mount Barker,P4601
+C3293,Nambour,P233
+C3294,Yamba,P1748
+C3295,Melbourne,P3343
+C3296,Mooroopna,P3453
+C3297,Kyabram,P1744
+C3298,Wagga Wagga,P3065
+C3299,Darwin,P1838
+C3300,Bendigo,P3451
+C3301,Bendigo,P1339
+C3302,Campbelltown,P3862
+C3303,Muswellbrook,P4381
+C3304,Castlemaine,P871
+C3305,Sydney,P2774
+C3306,Echuca,P2614
+C3307,Cairns,P1217
+C3308,Gold Coast,P124
+C3309,Wauchope,P1871
+C3310,Cranbourne,P1011
+C3311,Sydney,P3798
+C3312,Mount Barker,P3680
+C3313,Point Vernon,P583
+C3314,Canberra,P647
+C3315,Sydney,P661
+C3316,Murwillumbah,P1863
+C3317,Forster,P2934
+C3318,Forster,P4072
+C3319,Adelaide,P1056
+C3320,Maryborough,P466
+C3321,Melbourne,P2514
+C3322,Colac,P4215
+C3323,Yass,P949
+C3324,Leopold,P1423
+C3325,Echuca,P4165
+C3326,Townsville,P4424
+C3327,Port Augusta,P1306
+C3328,Nowra,P1136
+C3329,Springwood,P1723
+C3330,Townsville,P434
+C3331,Bomaderry,P147
+C3332,Whittlesea,P2580
+C3333,Colac,P1252
+C3334,Bargara,P1756
+C3335,Moree,P3250
+C3336,Ballarat,P1454
+C3337,Mandurah,P1584
+C3338,Burpengary,P495
+C3339,Hobart,P121
+C3340,Dromana,P2464
+C3341,Maryborough,P2533
+C3342,Brisbane,P1992
+C3343,Bargara,P4262
+C3344,Nowra,P681
+C3345,Ararat,P21
+C3346,Sydney,P140
+C3347,Tumut,P1862
+C3348,Sydney,P3083
+C3349,Toowoomba,P846
+C3350,Gympie,P2686
+C3351,Goonellabah,P3598
+C3352,Seymour,P2629
+C3353,Sydney,P2180
+C3354,Horsham,P190
+C3355,Brisbane,P2775
+C3356,Port Augusta,P507
+C3357,Newcastle,P4333
+C3358,Bongaree,P646
+C3359,Sydney,P4257
+C3360,Ballina,P678
+C3361,Leeton,P2829
+C3362,Adelaide,P228
+C3363,Melbourne,P3554
+C3364,Mount Barker,P239
+C3365,Mackay,P825
+C3366,Wollongong,P2880
+C3367,Ulverstone,P4060
+C3368,Mooroopna,P2939
+C3369,Kingscliff,P220
+C3370,Whittlesea,P1793
+C3371,Muswellbrook,P164
+C3372,Nambour,P1558
+C3373,Emu Plains,P4476
+C3374,Clifton Springs,P1972
+C3375,Colac,P809
+C3376,Burpengary,P3868
+C3377,Perth,P2492
+C3378,Hobart,P839
+C3379,Newcastle,P1106
+C3380,Cannonvale,P1779
+C3381,Wauchope,P1257
+C3382,Castlemaine,P533
+C3383,Cairns,P3637
+C3384,Sanctuary Point,P973
+C3385,Bargara,P1982
+C3386,Hobart,P80
+C3387,Wagga Wagga,P3729
+C3388,Ararat,P4173
+C3389,Whittlesea,P3011
+C3390,Ballina,P3270
+C3391,Tumut,P648
+C3392,Yanchep,P2727
+C3393,Seymour,P2769
+C3394,Bli Bli,P3376
+C3395,Bongaree,P3508
+C3396,Mount Barker,P2936
+C3397,Yass,P2539
+C3398,Mudgee,P609
+C3399,Hobart,P1849
+C3400,Nuriootpa,P955
+C3401,Mooroopna,P4605
+C3402,Ulverstone,P2235
+C3403,Mittagong,P1957
+C3404,Tuncurry,P2438
+C3405,Wollongong,P968
+C3406,Moss Vale,P2308
+C3407,Lakes Entrance,P3000
+C3408,Emu Plains,P3038
+C3409,Goonellabah,P1920
+C3410,Gold Coast,P1419
+C3411,Gold Coast,P4286
+C3412,Ulverstone,P1176
+C3413,Moree,P1352
+C3414,Blaxland,P540
+C3415,Yass,P1340
+C3416,Strathalbyn,P106
+C3417,Moss Vale,P4256
+C3418,Nuriootpa,P2244
+C3419,Narrabri,P2674
+C3420,Rutherford,P4616
+C3421,Canberra,P1733
+C3422,Mount Evelyn,P3122
+C3423,Ballina,P4577
+C3424,Melbourne,P3409
+C3425,Narrabri,P636
+C3426,Glen Innes,P2698
+C3427,Melbourne,P221
+C3428,Townsville,P149
+C3429,Sydney,P3175
+C3430,Casino,P2429
+C3431,Nowra,P19
+C3432,Corinda,P4383
+C3433,Mittagong,P3771
+C3434,Wauchope,P42
+C3435,Brisbane,P3917
+C3436,Mareeba,P4249
+C3437,Grafton,P4573
+C3438,Melbourne,P2332
+C3439,Cootamundra,P1108
+C3440,Dromana,P393
+C3441,Kingston,P3072
+C3442,Brisbane,P1482
+C3443,Bongaree,P3673
+C3444,Mount Barker,P374
+C3445,Parkes,P1974
+C3446,Wagga Wagga,P2396
+C3447,Mooroopna,P1034
+C3448,Cannonvale,P1486
+C3449,Canberra,P2855
+C3450,Tumut,P3026
+C3451,Brisbane,P3498
+C3452,Tweed Heads,P119
+C3453,Adelaide,P1607
+C3454,Nowra,P1161
+C3455,Ararat,P766
+C3456,Alstonville,P559
+C3457,Sydney,P1473
+C3458,Maryborough,P3969
+C3459,Gympie,P3322
+C3460,Townsville,P3029
+C3461,Mount Evelyn,P4374
+C3462,Brisbane,P916
+C3463,Canberra,P297
+C3464,Inverell,P816
+C3465,Wallan,P514
+C3466,Port Augusta,P376
+C3467,Ballina,P3861
+C3468,Burpengary,P2563
+C3469,Young,P2578
+C3470,Brisbane,P1148
+C3471,Canberra,P4171
+C3472,Melbourne,P1592
+C3473,Cannonvale,P1547
+C3474,Strathalbyn,P2892
+C3475,Brisbane,P4618
+C3476,Urraween,P2264
+C3477,Emu Plains,P1708
+C3478,Tuncurry,P36
+C3479,Grafton,P2459
+C3480,Castlemaine,P2912
+C3481,Nowra,P1523
+C3482,Cowra,P4185
+C3483,Seymour,P4292
+C3484,Kyabram,P2499
+C3485,Bongaree,P2704
+C3486,Grafton,P2848
+C3487,Sanctuary Point,P3836
+C3488,Kingscliff,P2525
+C3489,Rutherford,P4359
+C3490,Mount Barker,P4602
+C3491,Melbourne,P2007
+C3492,Healesville,P3347
+C3493,Yanchep,P1458
+C3494,Kyabram,P3225
+C3495,Perth,P2453
+C3496,Gympie,P3744
+C3497,Melbourne,P4278
+C3498,Kyneton,P3090
+C3499,Bowral,P3342
+C3500,Sydney,P4357
+C3501,Mudgee,P4536
+C3502,Deniliquin,P3126
+C3503,Echuca,P2259
+C3504,Perth,P622
+C3505,Rutherford,P484
+C3506,Ipswich,P214
+C3507,Waterford,P2186
+C3508,Moree,P365
+C3509,Cannonvale,P474
+C3510,Bli Bli,P3084
+C3511,Blaxland,P3425
+C3512,Kurri Kurri,P3019
+C3513,Bongaree,P2040
+C3514,Cranbourne,P3338
+C3515,Adelaide,P4450
+C3516,Morwell,P947
+C3517,Sanctuary Point,P1464
+C3518,Emu Plains,P3599
+C3519,Nowra,P3041
+C3520,Kingston,P2526
+C3521,Nuriootpa,P2693
+C3522,Colac,P4556
+C3523,Gympie,P2889
+C3524,Melbourne,P3908
+C3525,Dromana,P23
+C3526,Nowra,P3070
+C3527,Urraween,P4055
+C3528,Leongatha,P1644
+C3529,Young,P729
+C3530,Helensburgh,P1696
+C3531,Echuca,P109
+C3532,Scone,P2654
+C3533,Helensburgh,P306
+C3534,Central Coast,P4052
+C3535,Adelaide,P2984
+C3536,Narrabri,P2397
+C3537,North Mackay,P1991
+C3538,Swan Hill,P3168
+C3539,Grafton,P979
+C3540,Urraween,P4086
+C3541,Nambour,P2004
+C3542,Newcastle,P84
+C3543,Leongatha,P3894
+C3544,Hobart,P3994
+C3545,Murwillumbah,P4274
+C3546,Darwin,P3491
+C3547,Seymour,P924
+C3548,Bongaree,P4572
+C3549,Cairns,P724
+C3550,Melbourne,P2493
+C3551,Lennox Head,P1550
+C3552,Murwillumbah,P4018
+C3553,Sydney,P963
+C3554,Kyneton,P1813
+C3555,Forster,P1085
+C3556,Hobart,P802
+C3557,Colac,P1500
+C3558,Mackay,P2033
+C3559,Brisbane,P788
+C3560,Nambucca Heads,P4550
+C3561,Bowral,P1367
+C3562,Waterford,P740
+C3563,Mudgee,P2985
+C3564,Kingscliff,P1711
+C3565,Swan Hill,P4514
+C3566,Deniliquin,P4329
+C3567,Ulverstone,P3328
+C3568,Ararat,P1935
+C3569,Cannonvale,P389
+C3570,Stawell,P489
+C3571,Alstonville,P4305
+C3572,Hobart,P4390
+C3573,Strathalbyn,P3190
+C3574,Wollongong,P2538
+C3575,Corowa,P781
+C3576,Strathalbyn,P4332
+C3577,Barwon Heads,P560
+C3578,Brisbane,P3972
+C3579,Yass,P4187
+C3580,Sydney,P2981
+C3581,Parkes,P3047
+C3582,Sydney,P1172
+C3583,Corinda,P1557
+C3584,Forster,P2749
+C3585,Bowral,P59
+C3586,Wollongong,P3362
+C3587,Morwell,P68
+C3588,Charters Towers,P2049
+C3589,Mareeba,P3194
+C3590,Ulverstone,P1658
+C3591,Perth,P1743
+C3592,Whittlesea,P173
+C3593,Canberra,P2894
+C3594,Waterford,P2632
+C3595,Colac,P4521
+C3596,Melbourne,P56
+C3597,Maryborough,P137
+C3598,Kingston,P2263
+C3599,Forster,P517
+C3600,Melbourne,P2313
+C3601,Perth,P1158
+C3602,Cowra,P479
+C3603,Perth,P2166
+C3604,Brisbane,P2648
+C3605,Cowra,P725
+C3606,Bomaderry,P1829
+C3607,Sydney,P3222
+C3608,Ulverstone,P4191
+C3609,Deniliquin,P3603
+C3610,Hobart,P3132
+C3611,Moree,P2045
+C3612,Inverell,P640
+C3613,Blaxland,P2885
+C3614,Adelaide,P1646
+C3615,Yamba,P1795
+C3616,Cranbourne,P295
+C3617,Adelaide,P4432
+C3618,Adelaide,P242
+C3619,Colac,P953
+C3620,Merrimac,P4164
+C3621,Waterford,P2842
+C3622,Launceston,P4180
+C3623,Bargara,P3128
+C3624,Andergrove,P773
+C3625,Lennox Head,P2000
+C3626,Sydney,P1317
+C3627,Kyneton,P1171
+C3628,Sanctuary Point,P1906
+C3629,Nowra,P1934
+C3630,Brisbane,P2933
+C3631,Andergrove,P1297
+C3632,Nuriootpa,P1154
+C3633,Australind,P2917
+C3634,Ararat,P1994
+C3635,Stawell,P1664
+C3636,Mount Evelyn,P1255
+C3637,Urraween,P445
+C3638,Hobart,P1254
+C3639,Hobart,P4391
+C3640,Swan Hill,P361
+C3641,Clifton Springs,P1605
+C3642,Parkes,P3827
+C3643,Yamba,P3746
+C3644,Mudgee,P3882
+C3645,Geelong,P2628
+C3646,Lakes Entrance,P2369
+C3647,Ballarat,P3830
+C3648,Leongatha,P2998
+C3649,Cowra,P2692
+C3650,Brisbane,P3880
+C3651,Andergrove,P2882
+C3652,Mooroopna,P969
+C3653,Bomaderry,P649
+C3654,Waterford,P888
+C3655,Mareeba,P3997
+C3656,Leongatha,P711
+C3657,Mittagong,P1282
+C3658,Kurri Kurri,P848
+C3659,Melbourne,P626
+C3660,Toowoomba,P195
+C3661,Gold Coast,P4166
+C3662,Young,P4342
+C3663,Melbourne,P1389
+C3664,Mooroopna,P2843
+C3665,Yamba,P1483
+C3666,Adelaide,P667
+C3667,Grafton,P1059
+C3668,Urraween,P2177
+C3669,Sydney,P4387
+C3670,Campbelltown,P896
+C3671,Young,P2536
+C3672,Mount Evelyn,P2291
+C3673,Ballarat,P3118
+C3674,Cootamundra,P3970
+C3675,Sydney,P1633
+C3676,Lennox Head,P790
+C3677,Maryborough,P2390
+C3678,Newcastle,P4133
+C3679,Wagga Wagga,P1559
+C3680,Ararat,P1513
+C3681,Barwon Heads,P4048
+C3682,Wollongong,P198
+C3683,Cootamundra,P2260
+C3684,Mackay,P2284
+C3685,Perth,P1315
+C3686,Wynyard,P3571
+C3687,Townsville,P1861
+C3688,Mooroopna,P1901
+C3689,Launceston,P271
+C3690,Parkes,P708
+C3691,Kyneton,P4088
+C3692,Lakes Entrance,P675
+C3693,Canberra,P4154
+C3694,Narrabri,P2627
+C3695,Burpengary,P373
+C3696,Deniliquin,P3049
+C3697,Casino,P3572
+C3698,Colac,P778
+C3699,Kurri Kurri,P70
+C3700,Charters Towers,P3269
+C3701,Echuca,P4427
+C3702,Gympie,P2374
+C3703,Yass,P2976
+C3704,Scone,P2815
+C3705,Sydney,P1128
+C3706,Alstonville,P1738
+C3707,Merrimac,P3602
+C3708,Kingston,P1892
+C3709,Melbourne,P1737
+C3710,Brisbane,P3964
+C3711,Hobart,P1261
+C3712,Launceston,P3193
+C3713,Wallan,P868
+C3714,Yanchep,P2414
+C3715,Ipswich,P105
+C3716,Corowa,P1117
+C3717,Nuriootpa,P3522
+C3718,Wauchope,P2776
+C3719,Echuca,P3428
+C3720,Canberra,P3058
+C3721,Nambour,P2072
+C3722,Leeton,P215
+C3723,Leongatha,P496
+C3724,Grafton,P3581
+C3725,Goonellabah,P1485
+C3726,Adelaide,P341
+C3727,Brisbane,P1116
+C3728,Leopold,P2048
+C3729,Tweed Heads,P1621
+C3730,Point Vernon,P998
+C3731,Ulverstone,P17
+C3732,Young,P1185
+C3733,Townsville,P1995
+C3734,Townsville,P1425
+C3735,Melbourne,P3420
+C3736,Sydney,P3436
+C3737,Campbelltown,P3196
+C3738,Wallan,P935
+C3739,Hobart,P2920
+C3740,Kingscliff,P2884
+C3741,Rutherford,P1007
+C3742,Bongaree,P4520
+C3743,Sydney,P1631
+C3744,Yanchep,P3542
+C3745,Kyabram,P2131
+C3746,Urraween,P2888
+C3747,Sydney,P2463
+C3748,Mandurah,P3562
+C3749,Kingscliff,P2921
+C3750,Mount Evelyn,P2759
+C3751,Campbelltown,P3159
+C3752,Sydney,P3224
+C3753,Newcastle,P4396
+C3754,Morwell,P4125
+C3755,Mount Barker,P2558
+C3756,Mackay,P660
+C3757,Hobart,P4062
+C3758,Adelaide,P3909
+C3759,Ararat,P87
+C3760,North Mackay,P4386
+C3761,Melbourne,P3507
+C3762,Melbourne,P2607
+C3763,Leeton,P4320
+C3764,Hobart,P1387
+C3765,Glen Innes,P2236
+C3766,Leongatha,P812
+C3767,Horsham,P3043
+C3768,Nuriootpa,P3704
+C3769,Nowra,P2269
+C3770,Casino,P2599
+C3771,Yass,P2770
+C3772,Mandurah,P1565
+C3773,Young,P2238
+C3774,Campbelltown,P2509
+C3775,Sydney,P3840
+C3776,Brisbane,P1830
+C3777,Mudgee,P937
+C3778,Nuriootpa,P3863
+C3779,Melbourne,P3525
+C3780,Mittagong,P3221
+C3781,Newcastle,P3182
+C3782,Brisbane,P77
+C3783,Ararat,P4379
+C3784,Launceston,P4299
+C3785,Alstonville,P1911
+C3786,Barwon Heads,P3283
+C3787,Ipswich,P4147
+C3788,Inverell,P186
+C3789,Ballarat,P3769
+C3790,Grafton,P2671
+C3791,Melbourne,P615
+C3792,Whittlesea,P1144
+C3793,Wollongong,P967
+C3794,Strathalbyn,P946
+C3795,Adelaide,P1751
+C3796,Perth,P1996
+C3797,Parkes,P2523
+C3798,Wagga Wagga,P4429
+C3799,Murwillumbah,P148
+C3800,Tumut,P4460
+C3801,Wollongong,P808
+C3802,Dromana,P2359
+C3803,Mackay,P2426
+C3804,Cowra,P992
+C3805,Mudgee,P1651
+C3806,Perth,P2145
+C3807,Adelaide,P1587
+C3808,Mudgee,P1027
+C3809,Brisbane,P3432
+C3810,Mount Barker,P1616
+C3811,Burpengary,P2803
+C3812,Helensburgh,P483
+C3813,Glen Innes,P1204
+C3814,Perth,P2553
+C3815,Moree,P133
+C3816,Cessnock,P855
+C3817,Yamba,P939
+C3818,Helensburgh,P3543
+C3819,Lakes Entrance,P3811
+C3820,Bargara,P4030
+C3821,Brisbane,P3518
+C3822,Inverell,P1067
+C3823,Yanchep,P4203
+C3824,Mareeba,P2797
+C3825,North Mackay,P2597
+C3826,Alstonville,P3169
+C3827,Grafton,P200
+C3828,Central Coast,P211
+C3829,Hobart,P4338
+C3830,Blaxland,P4421
+C3831,Kyabram,P4228
+C3832,Adelaide,P638
+C3833,Glen Innes,P1614
+C3834,Canberra,P1858
+C3835,Nuriootpa,P2384
+C3836,Kyneton,P4204
+C3837,Central Coast,P2265
+C3838,Bli Bli,P4430
+C3839,Grafton,P2327
+C3840,Young,P3962
+C3841,Springwood,P3500
+C3842,Brisbane,P1212
+C3843,Goonellabah,P3624
+C3844,Nuriootpa,P4440
+C3845,Yass,P3061
+C3846,Strathalbyn,P1915
+C3847,Sydney,P229
+C3848,Newcastle,P441
+C3849,Canberra,P287
+C3850,Charters Towers,P2297
+C3851,Bli Bli,P2026
+C3852,Strathalbyn,P1087
+C3853,Waterford,P1327
+C3854,Kyneton,P3809
+C3855,Echuca,P803
+C3856,Central Coast,P157
+C3857,Adelaide,P699
+C3858,Stawell,P4586
+C3859,Ballina,P1772
+C3860,Glen Innes,P136
+C3861,Melbourne,P2274
+C3862,Canberra,P4119
+C3863,Cranbourne,P1302
+C3864,Mooroopna,P3288
+C3865,Cessnock,P3255
+C3866,Castlemaine,P1652
+C3867,Morwell,P3818
+C3868,Ipswich,P2902
+C3869,Emu Plains,P1931
+C3870,Tweed Heads,P4049
+C3871,Charters Towers,P826
+C3872,Cessnock,P745
+C3873,Lennox Head,P2551
+C3874,Castlemaine,P4244
+C3875,Moree,P1481
+C3876,Corinda,P383
+C3877,Helensburgh,P1891
+C3878,Yanchep,P1220
+C3879,Young,P3274
+C3880,Castlemaine,P4436
+C3881,Port Augusta,P204
+C3882,Perth,P4561
+C3883,North Mackay,P2128
+C3884,Wallan,P4571
+C3885,Mandurah,P103
+C3886,Adelaide,P4352
+C3887,Gold Coast,P1961
+C3888,Mount Evelyn,P1428
+C3889,Horsham,P1341
+C3890,Kingscliff,P3589
+C3891,Brisbane,P176
+C3892,Melbourne,P3987
+C3893,Hobart,P414
+C3894,Emu Plains,P3360
+C3895,Andergrove,P936
+C3896,Perth,P3459
+C3897,Seymour,P1987
+C3898,Goonellabah,P422
+C3899,Bli Bli,P2022
+C3900,Lennox Head,P432
+C3901,Stawell,P1618
+C3902,Yanchep,P3923
+C3903,Kyabram,P2592
+C3904,Perth,P1639
+C3905,Casino,P828
+C3906,Dromana,P2233
+C3907,Central Coast,P272
+C3908,Springwood,P1719
+C3909,Grafton,P2596
+C3910,Wauchope,P3927
+C3911,Bongaree,P827
+C3912,Swan Hill,P1479
+C3913,Stawell,P62
+C3914,Wagga Wagga,P4401
+C3915,Melbourne,P3842
+C3916,Wallan,P2388
+C3917,Fremantle,P2337
+C3918,Moree,P183
+C3919,Ipswich,P1761
+C3920,Horsham,P3674
+C3921,Mackay,P3231
+C3922,Hobart,P168
+C3923,Glen Innes,P3298
+C3924,Ballarat,P2125
+C3925,Clifton Springs,P1589
+C3926,Perth,P3808
+C3927,Bongaree,P3367
+C3928,Cannonvale,P3952
+C3929,Mackay,P1391
+C3930,Glen Innes,P3719
+C3931,Colac,P4358
+C3932,Cootamundra,P1563
+C3933,Sydney,P747
+C3934,Hobart,P852
+C3935,Hobart,P2344
+C3936,North Mackay,P2830
+C3937,Castlemaine,P1927
+C3938,Urraween,P4416
+C3939,Canberra,P4250
+C3940,Sanctuary Point,P4451
+C3941,Echuca,P3958
+C3942,Melbourne,P2431
+C3943,Sanctuary Point,P4255
+C3944,Emu Plains,P1294
+C3945,Strathalbyn,P282
+C3946,Nuriootpa,P2017
+C3947,Morwell,P1472
+C3948,Urraween,P1794
+C3949,Barwon Heads,P153
+C3950,Nowra,P701
+C3951,Adelaide,P3735
+C3952,Melbourne,P4084
+C3953,Yamba,P3799
+C3954,Point Vernon,P4121
+C3955,Helensburgh,P1350
+C3956,Kurri Kurri,P3933
+C3957,Corowa,P4375
+C3958,Mandurah,P539
+C3959,Point Vernon,P987
+C3960,Corowa,P4213
+C3961,Cannonvale,P3763
+C3962,Leongatha,P3308
+C3963,Perth,P1251
+C3964,Bli Bli,P2971
+C3965,Brisbane,P737
+C3966,Kyneton,P4410
+C3967,Cairns,P2237
+C3968,Nambour,P1412
+C3969,Lennox Head,P901
+C3970,Cootamundra,P188
+C3971,Point Vernon,P882
+C3972,Mittagong,P2141
+C3973,Sanctuary Point,P3213
+C3974,Corowa,P1414
+C3975,Adelaide,P2691
+C3976,Wauchope,P1921
+C3977,Scone,P2669
+C3978,Mandurah,P3103
+C3979,Canberra,P2234
+C3980,Port Augusta,P600
+C3981,Port Augusta,P4054
+C3982,Nuriootpa,P2188
+C3983,Newcastle,P4050
+C3984,Moss Vale,P796
+C3985,Melbourne,P530
+C3986,Nambour,P1767
+C3987,Stawell,P280
+C3988,Brisbane,P3537
+C3989,Parkes,P3707
+C3990,Helensburgh,P4071
+C3991,Melbourne,P4535
+C3992,Canberra,P2866
+C3993,Mackay,P4467
+C3994,Mandurah,P2330
+C3995,Adelaide,P1599
+C3996,Gold Coast,P1322
+C3997,Blaxland,P2540
+C3998,Muswellbrook,P2249
+C3999,Townsville,P1245
+C4000,Urraween,P1509
+C4001,Townsville,P1240
+C4002,Bomaderry,P475
+C4003,Scone,P2398
+C4004,Goonellabah,P3633
+C4005,Stawell,P4115
+C4006,Sydney,P1375
+C4007,Bli Bli,P1650
+C4008,Merrimac,P1603
+C4009,Perth,P2860
+C4010,Hobart,P3123
+C4011,Port Augusta,P1288
+C4012,Healesville,P1030
+C4013,Young,P301
+C4014,Adelaide,P3355
+C4015,Springwood,P4146
+C4016,Bli Bli,P4219
+C4017,Ararat,P4094
+C4018,Grafton,P4345
+C4019,Yanchep,P2823
+C4020,Nambour,P1102
+C4021,Adelaide,P1345
+C4022,Wagga Wagga,P845
+C4023,Muswellbrook,P1101
+C4024,Sydney,P1273
+C4025,Barwon Heads,P3479
+C4026,Katoomba,P1149
+C4027,Mount Barker,P555
+C4028,Sydney,P1134
+C4029,Brisbane,P4236
+C4030,Toowoomba,P3878
+C4031,Clifton Springs,P3611
+C4032,Bargara,P252
+C4033,Mittagong,P3650
+C4034,Nuriootpa,P3098
+C4035,Brisbane,P3797
+C4036,Nambucca Heads,P3068
+C4037,Tuncurry,P4211
+C4038,Wauchope,P3395
+C4039,Waterford,P1041
+C4040,Blaxland,P2114
+C4041,Barwon Heads,P2718
+C4042,Urraween,P2868
+C4043,Sydney,P2130
+C4044,Nowra,P959
+C4045,Adelaide,P4543
+C4046,Casino,P4304
+C4047,Waterford,P3412
+C4048,Melbourne,P4437
+C4049,Seymour,P244
+C4050,Cowra,P1724
+C4051,Healesville,P4347
+C4052,Melbourne,P2687
+C4053,Launceston,P3922
+C4054,Central Coast,P1917
+C4055,Central Coast,P95
+C4056,Adelaide,P2781
+C4057,Bli Bli,P523
+C4058,Perth,P858
+C4059,Bongaree,P834
+C4060,Tweed Heads,P2802
+C4061,Wagga Wagga,P3853
+C4062,Sydney,P945
+C4063,Yass,P513
+C4064,Leopold,P544
+C4065,Lakes Entrance,P3895
+C4066,Cannonvale,P2534
+C4067,Mareeba,P302
+C4068,Yamba,P3766
+C4069,Charters Towers,P3944
+C4070,Mount Evelyn,P2480
+C4071,Sydney,P4495
+C4072,Leongatha,P604
+C4073,Leeton,P1752
+C4074,Melbourne,P4068
+C4075,Rutherford,P424
+C4076,Gold Coast,P4318
+C4077,Castlemaine,P4438
+C4078,Kurri Kurri,P4196
+C4079,Seymour,P1577
+C4080,Campbelltown,P1404
+C4081,Swan Hill,P3422
+C4082,Leongatha,P820
+C4083,Sydney,P883
+C4084,Sanctuary Point,P2456
+C4085,Healesville,P2407
+C4086,Urraween,P1013
+C4087,Mackay,P120
+C4088,Sydney,P2421
+C4089,Clifton Springs,P4552
+C4090,Ballarat,P4264
+C4091,Rutherford,P2664
+C4092,Nambucca Heads,P2914
+C4093,Ipswich,P3563
+C4094,Rutherford,P1866
+C4095,Nambucca Heads,P680
+C4096,Nuriootpa,P3931
+C4097,Healesville,P695
+C4098,Point Vernon,P3059
+C4099,Horsham,P3150
+C4100,Seymour,P3946
+C4101,Inverell,P2091
+C4102,Inverell,P2583
+C4103,Lakes Entrance,P3541
+C4104,Wallan,P2964
+C4105,Ipswich,P2932
+C4106,Lakes Entrance,P1263
+C4107,Clifton Springs,P50
+C4108,Adelaide,P3207
+C4109,Echuca,P4578
+C4110,Canberra,P926
+C4111,Springwood,P3879
+C4112,Moss Vale,P942
+C4113,Deniliquin,P3781
+C4114,Townsville,P396
+C4115,Central Coast,P3910
+C4116,Leeton,P4279
+C4117,Springwood,P1640
+C4118,Mackay,P4513
+C4119,Cootamundra,P2199
+C4120,Launceston,P2311
+C4121,Canberra,P1539
+C4122,Healesville,P4042
+C4123,Fremantle,P3138
+C4124,Narrabri,P1499
+C4125,Charters Towers,P4549
+C4126,Perth,P3558
+C4127,Adelaide,P2461
+C4128,Hobart,P4317
+C4129,Yass,P4559
+C4130,Point Vernon,P2106
+C4131,Corowa,P336
+C4132,Casino,P918
+C4133,Geelong,P1094
+C4134,Wagga Wagga,P329
+C4135,Tweed Heads,P1833
+C4136,Wallan,P4020
+C4137,Yanchep,P1203
+C4138,Waterford,P980
+C4139,Inverell,P2846
+C4140,Katoomba,P819
+C4141,Cowra,P1318
+C4142,Brisbane,P1370
+C4143,Yanchep,P1178
+C4144,Nambour,P2799
+C4145,Sydney,P2057
+C4146,Kurri Kurri,P3339
+C4147,Burpengary,P1399
+C4148,Andergrove,P1583
+C4149,Yass,P263
+C4150,Fremantle,P2485
+C4151,Canberra,P4130
+C4152,Cootamundra,P4038
+C4153,Moss Vale,P2462
+C4154,Young,P3743
+C4155,Colac,P2502
+C4156,Wollongong,P1643
+C4157,Bargara,P1953
+C4158,Sanctuary Point,P2867
+C4159,Kyneton,P3509
+C4160,Kyabram,P3333
+C4161,Alstonville,P2474
+C4162,Mooroopna,P3705
+C4163,Charters Towers,P2701
+C4164,Wauchope,P989
+C4165,Bongaree,P2273
+C4166,Fremantle,P2402
+C4167,Helensburgh,P144
+C4168,Geelong,P2361
+C4169,Geelong,P2086
+C4170,Wynyard,P420
+C4171,Maryborough,P2619
+C4172,Central Coast,P1895
+C4173,Darwin,P815
+C4174,Young,P3446
+C4175,Stawell,P1470
+C4176,Bongaree,P2298
+C4177,Wollongong,P255
+C4178,Strathalbyn,P2132
+C4179,Melbourne,P175
+C4180,Mareeba,P3495
+C4181,Goonellabah,P3524
+C4182,Forster,P3561
+C4183,Adelaide,P3392
+C4184,Bendigo,P1556
+C4185,Port Augusta,P1619
+C4186,Swan Hill,P2941
+C4187,Adelaide,P865
+C4188,Goonellabah,P566
+C4189,Corinda,P2721
+C4190,Wagga Wagga,P795
+C4191,Canberra,P4389
+C4192,Fremantle,P3919
+C4193,Adelaide,P3079
+C4194,Andergrove,P320
+C4195,Corinda,P4610
+C4196,Sydney,P554
+C4197,Leeton,P348
+C4198,Leeton,P1940
+C4199,Sydney,P2881
+C4200,Sydney,P2512
+C4201,Ballarat,P54
+C4202,Newcastle,P930
+C4203,Yass,P251
+C4204,North Mackay,P2255
+C4205,Echuca,P1276
+C4206,Brisbane,P4254
+C4207,Townsville,P4346
+C4208,Leongatha,P2175
+C4209,Perth,P286
+C4210,Perth,P3327
+C4211,Canberra,P4160
+C4212,Hobart,P3077
+C4213,Brisbane,P1215
+C4214,Sydney,P1073
+C4215,Forster,P3082
+C4216,Nambucca Heads,P3885
+C4217,Alstonville,P2479
+C4218,Healesville,P3646
+C4219,Canberra,P130
+C4220,Tumut,P4604
+C4221,Ararat,P73
+C4222,Canberra,P3124
+C4223,Bowral,P986
+C4224,Nambour,P123
+C4225,Campbelltown,P2790
+C4226,Strathalbyn,P131
+C4227,Castlemaine,P2737
+C4228,Nuriootpa,P446
+C4229,Emu Plains,P1859
+C4230,Mount Evelyn,P3267
+C4231,Adelaide,P3020
+C4232,Narrabri,P2266
+C4233,Waterford,P584
+C4234,Barwon Heads,P2342
+C4235,Darwin,P1799
+C4236,Wallan,P3801
+C4237,Sydney,P2067
+C4238,Wauchope,P1502
+C4239,Lakes Entrance,P3181
+C4240,Young,P2516
+C4241,Wollongong,P3555
+C4242,Lakes Entrance,P3271
+C4243,Urraween,P3906
+C4244,Canberra,P4272
+C4245,Mandurah,P932
+C4246,Tumut,P3275
+C4247,Lennox Head,P3373
+C4248,Perth,P728
+C4249,Barwon Heads,P64
+C4250,Adelaide,P2302
+C4251,Moree,P785
+C4252,Bongaree,P4041
+C4253,Canberra,P2602
+C4254,Gold Coast,P3733
+C4255,Canberra,P1480
+C4256,Gympie,P1125
+C4257,Melbourne,P591
+C4258,Townsville,P1048
+C4259,Fremantle,P535
+C4260,Leopold,P2151
+C4261,Melbourne,P222
+C4262,Bongaree,P2083
+C4263,Ipswich,P715
+C4264,Whittlesea,P2625
+C4265,Adelaide,P1636
+C4266,Leopold,P1280
+C4267,Wallan,P2469
+C4268,Kurri Kurri,P4482
+C4269,Bongaree,P3896
+C4270,Perth,P321
+C4271,Andergrove,P370
+C4272,Melbourne,P1456
+C4273,Mackay,P537
+C4274,Mittagong,P1175
+C4275,Wollongong,P1978
+C4276,Wallan,P4126
+C4277,Yanchep,P1165
+C4278,Canberra,P3925
+C4279,Rutherford,P4106
+C4280,Leongatha,P1300
+C4281,Deniliquin,P394
+C4282,Brisbane,P1886
+C4283,Ballarat,P2419
+C4284,Tuncurry,P2385
+C4285,Tuncurry,P779
+C4286,Charters Towers,P2296
+C4287,Mandurah,P2667
+C4288,Deniliquin,P2036
+C4289,Grafton,P4570
+C4290,Bongaree,P4069
+C4291,Mittagong,P457
+C4292,Moss Vale,P243
+C4293,Stawell,P4155
+C4294,Cairns,P1093
+C4295,Horsham,P3667
+C4296,Colac,P1129
+C4297,Sydney,P3447
+C4298,Townsville,P3790
+C4299,Mandurah,P2720
+C4300,Helensburgh,P327
+C4301,Goonellabah,P2309
+C4302,Hobart,P1569
+C4303,Cannonvale,P3481
+C4304,Glen Innes,P2147
+C4305,Scone,P713
+C4306,Central Coast,P561
+C4307,Gold Coast,P3614
+C4308,Brisbane,P3411
+C4309,Gold Coast,P4031
+C4310,Parkes,P1197
+C4311,Cootamundra,P3741
+C4312,Brisbane,P4172
+C4313,Casino,P4101
+C4314,Barwon Heads,P125
+C4315,Nambour,P3186
+C4316,Narrabri,P2059
+C4317,Bowral,P2910
+C4318,Point Vernon,P60
+C4319,Hobart,P3313
+C4320,Sydney,P742
+C4321,Goonellabah,P450
+C4322,Goonellabah,P4597
+C4323,Bli Bli,P1688
+C4324,Rutherford,P774
+C4325,Sydney,P3107
+C4326,Cannonvale,P996
+C4327,Corinda,P519
+C4328,Tumut,P2159
+C4329,Young,P1025
+C4330,Casino,P1766
+C4331,Central Coast,P3111
+C4332,Ballina,P217
+C4333,Morwell,P3236
+C4334,Hobart,P1877
+C4335,Fremantle,P3475
+C4336,Inverell,P1555
+C4337,Forster,P1150
+C4338,Colac,P1505
+C4339,Townsville,P4624
+C4340,Kingscliff,P2449
+C4341,Hobart,P2126
+C4342,Maryborough,P2872
+C4343,Australind,P2561
+C4344,Wallan,P2506
+C4345,Ballarat,P2903
+C4346,Bli Bli,P3659
+C4347,Kyneton,P2226
+C4348,Kurri Kurri,P716
+C4349,Sydney,P1645
+C4350,Barwon Heads,P1489
+C4351,Urraween,P3033
+C4352,Leeton,P4271
+C4353,Sydney,P2133
+C4354,Hobart,P1193
+C4355,Sydney,P3648
+C4356,Blaxland,P2154
+C4357,Wynyard,P516
+C4358,Toowoomba,P2959
+C4359,Canberra,P1368
+C4360,Cranbourne,P2451
+C4361,Dromana,P2909
+C4362,Leopold,P3368
+C4363,Forster,P1615
+C4364,Colac,P1762
+C4365,Murwillumbah,P719
+C4366,Merrimac,P3829
+C4367,Sydney,P3821
+C4368,Bomaderry,P3378
+C4369,Whittlesea,P3776
+C4370,Kingston,P402
+C4371,Ararat,P3940
+C4372,Wauchope,P1104
+C4373,Geelong,P931
+C4374,Yamba,P2386
+C4375,Wagga Wagga,P1379
+C4376,Newcastle,P3393
+C4377,Goonellabah,P3426
+C4378,Townsville,P1078
+C4379,Mackay,P437
+C4380,Bomaderry,P3136
+C4381,Nuriootpa,P564
+C4382,Melbourne,P1058
+C4383,Perth,P58
+C4384,Alstonville,P4056
+C4385,Yamba,P1356
+C4386,Port Augusta,P3197
+C4387,Cootamundra,P3709
+C4388,Mudgee,P3116
+C4389,Hobart,P786
+C4390,Maryborough,P2694
+C4391,Cootamundra,P1098
+C4392,Tuncurry,P2831
+C4393,Perth,P1233
+C4394,Sydney,P723
+C4395,Ulverstone,P509
+C4396,Sydney,P3795
+C4397,Echuca,P1531
+C4398,Sydney,P3257
+C4399,Melbourne,P2468
+C4400,Emu Plains,P1036
+C4401,Casino,P4008
+C4402,Kurri Kurri,P862
+C4403,Mooroopna,P4296
+C4404,Urraween,P3463
+C4405,Hobart,P3346
+C4406,Deniliquin,P2155
+C4407,Adelaide,P3314
+C4408,Perth,P2590
+C4409,Healesville,P225
+C4410,Adelaide,P3950
+C4411,Muswellbrook,P682
+C4412,Mackay,P2006
+C4413,Emu Plains,P1654
+C4414,Australind,P1449
+C4415,Morwell,P2851
+C4416,Bowral,P67
+C4417,Point Vernon,P3664
+C4418,Launceston,P2335
+C4419,North Mackay,P1944
+C4420,Cannonvale,P4564
+C4421,Charters Towers,P122
+C4422,Tweed Heads,P2450
+C4423,Mooroopna,P782
+C4424,Melbourne,P3202
+C4425,Andergrove,P2173
+C4426,Mittagong,P275
+C4427,Springwood,P624
+C4428,Launceston,P347
+C4429,Moree,P3251
+C4430,Strathalbyn,P4295
+C4431,Echuca,P3160
+C4432,Corinda,P189
+C4433,Perth,P81
+C4434,Cannonvale,P3977
+C4435,Sydney,P2570
+C4436,Bendigo,P4026
+C4437,Mooroopna,P1402
+C4438,Yamba,P1249
+C4439,Wynyard,P2798
+C4440,Wauchope,P1227
+C4441,Rutherford,P4322
+C4442,Healesville,P2543
+C4443,Cairns,P3419
+C4444,Echuca,P1358
+C4445,Leeton,P1421
+C4446,Mareeba,P910
+C4447,Tuncurry,P358
+C4448,Alstonville,P4183
+C4449,Andergrove,P1567
+C4450,Wollongong,P919
+C4451,Castlemaine,P2025
+C4452,Mackay,P607
+C4453,North Mackay,P2012
+C4454,Bendigo,P4210
+C4455,Sydney,P4237
+C4456,Moree,P528
+C4457,Moss Vale,P4149
+C4458,Point Vernon,P1442
+C4459,Mandurah,P2190
+C4460,Wallan,P78
+C4461,Moss Vale,P3546
+C4462,Mooroopna,P1543
+C4463,Alstonville,P3406
+C4464,Ballarat,P2316
+C4465,Canberra,P1243
+C4466,Kingston,P2170
+C4467,Perth,P2160
+C4468,Inverell,P4581
+C4469,Swan Hill,P114
+C4470,Lakes Entrance,P2786
+C4471,North Mackay,P2879
+C4472,Castlemaine,P4197
+C4473,Cowra,P4503
+C4474,Adelaide,P2196
+C4475,Kingscliff,P2443
+C4476,Cannonvale,P1506
+C4477,Perth,P1372
+C4478,Katoomba,P1522
+C4479,Alstonville,P2415
+C4480,Launceston,P575
+C4481,Melbourne,P912
+C4482,Blaxland,P2520
+C4483,Swan Hill,P3710
+C4484,Sanctuary Point,P345
+C4485,Melbourne,P1997
+C4486,Yamba,P4134
+C4487,Melbourne,P2401
+C4488,Cannonvale,P1211
+C4489,Goonellabah,P212
+C4490,Bargara,P3568
+C4491,Townsville,P1182
+C4492,Melbourne,P4039
+C4493,Campbelltown,P1922
+C4494,Tumut,P1712
+C4495,Kurri Kurri,P2475
+C4496,Goonellabah,P332
+C4497,Muswellbrook,P718
+C4498,Ballarat,P1811
+C4499,Rutherford,P3716
+C4500,Campbelltown,P3805
+C4501,Sanctuary Point,P2164
+C4502,Hobart,P1774
+C4503,Clifton Springs,P3816
+C4504,Mount Evelyn,P2571
+C4505,Moss Vale,P3421
+C4506,Wynyard,P3982
+C4507,Gold Coast,P1170
+C4508,Colac,P2876
+C4509,Newcastle,P2392
+C4510,Geelong,P2528
+C4511,Leeton,P4589
+C4512,Moss Vale,P3487
+C4513,Burpengary,P3965
+C4514,Lakes Entrance,P4124
+C4515,Parkes,P1671
+C4516,Perth,P4392
+C4517,Brisbane,P3127
+C4518,Hobart,P4330
+C4519,Gold Coast,P2346
+C4520,Glen Innes,P3645
+C4521,Ipswich,P2507
+C4522,Lennox Head,P4506
+C4523,Corowa,P1726
+C4524,Mount Barker,P1080
+C4525,Australind,P4325
+C4526,Wynyard,P351
+C4527,Mount Barker,P4308
+C4528,Ararat,P3229
+C4529,Townsville,P4360
+C4530,Horsham,P3759
+C4531,Murwillumbah,P1365
+C4532,Barwon Heads,P3170
+C4533,Merrimac,P1293
+C4534,Australind,P7
+C4535,Melbourne,P3523
+C4536,North Mackay,P1292
+C4537,Casino,P1287
+C4538,Ararat,P2660
+C4539,Burpengary,P2682
+C4540,Hobart,P730
+C4541,Corinda,P581
+C4542,Sanctuary Point,P2728
+C4543,Newcastle,P3184
+C4544,Ipswich,P324
+C4545,Murwillumbah,P2937
+C4546,Sydney,P784
+C4547,Hobart,P2381
+C4548,Adelaide,P899
+C4549,Tweed Heads,P741
+C4550,Ballarat,P2411
+C4551,Melbourne,P4216
+C4552,Central Coast,P1684
+C4553,Adelaide,P2167
+C4554,Mandurah,P951
+C4555,Bargara,P2736
+C4556,Yamba,P2650
+C4557,Mandurah,P3967
+C4558,Bomaderry,P3858
+C4559,Strathalbyn,P3486
+C4560,Sydney,P4283
+C4561,Brisbane,P4080
+C4562,Yass,P2573
+C4563,Adelaide,P1828
+C4564,Merrimac,P1360
+C4565,Nambour,P1474
+C4566,Leongatha,P1872
+C4567,Mount Barker,P2078
+C4568,Swan Hill,P506
+C4569,Brisbane,P1019
+C4570,Perth,P3526
+C4571,Darwin,P3137
+C4572,Emu Plains,P1010
+C4573,Barwon Heads,P3174
+C4574,Sydney,P1138
+C4575,Brisbane,P3135
+C4576,Goonellabah,P2063
+C4577,Wollongong,P3350
+C4578,Hobart,P2820
+C4579,Casino,P3261
+C4580,Kingston,P406
+C4581,Yanchep,P2377
+C4582,Merrimac,P4417
+C4583,Horsham,P664
+C4584,Adelaide,P2847
+C4585,Canberra,P1882
+C4586,Bli Bli,P1074
+C4587,Adelaide,P3291
+C4588,Kingston,P403
+C4589,Forster,P3817
+C4590,Glen Innes,P205
+C4591,Springwood,P4293
+C4592,Townsville,P1415
+C4593,Lennox Head,P2322
+C4594,Strathalbyn,P756
+C4595,Kurri Kurri,P870
+C4596,Forster,P3101
+C4597,Mount Barker,P2181
+C4598,Casino,P738
+C4599,Hobart,P3492
+C4600,Gympie,P1443
+C4601,Whittlesea,P2856
+C4602,Moss Vale,P30
+C4603,Cannonvale,P177
+C4604,Hobart,P1046
+C4605,Emu Plains,P2760
+C4606,Mittagong,P1274
+C4607,Bongaree,P1446
+C4608,Adelaide,P2780
+C4609,Stawell,P1710
+C4610,Tuncurry,P3263
+C4611,Clifton Springs,P873
+C4612,Nambucca Heads,P3472
+C4613,Darwin,P1216
+C4614,Perth,P1180
+C4615,Cranbourne,P3698
+C4616,Sydney,P2383
+C4617,Kingston,P197
+C4618,Alstonville,P2165
+C4619,Urraween,P74
+C4620,Ballarat,P1955
+C4621,Inverell,P534
+C4622,Melbourne,P4526
+C4623,Leongatha,P3762
+C4624,Inverell,P3590
